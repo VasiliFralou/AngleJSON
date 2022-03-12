@@ -54,6 +54,160 @@
       "auto": "Nissan 200SX S14 SR20VET, 2.0, 560 л.с.",
       "photo": "https://i.postimg.cc/HnRkPtbh/Alexey-Manchukevich.png",
       "photoAuto": "https://i.postimg.cc/Jnf1N5Z7/Alexey-Manchukevich.jpg"
+    },
+    {
+      "name": "Gediminas Ivanauskas",
+      "city": "Литва, Вильнюс",
+      "birthday": "5 июня 1988 г.",
+      "team": "",
+      "instagram": "@ivanuledrift",
+      "description": "",
+      "auto": "Nissan 180SX 2JZ, 850 л.с.",
+      "photo": "",
+      "photoAuto": ""
+    },
+    {
+      "name": "Николай Литвин",
+      "city": "Беларусь, Гродно",
+      "birthday": "17 июля 1992 г.",
+      "team": "Black Star PENGUIN",
+      "instagram": "@litvinz",
+      "description": "Николай Литвин хорошо известен в гродненских автомобильных кругах. Он вырос в Скиделе, затем жил в Гродно, а сейчас перебрался в Минск, где ведет IT-бизнес, а также открыл по франшизе автомойку Black Star и уже успешно выступает в дрифте.",
+      "auto": "Nissan 200SX S14 LS2, 6.0, 500 л.с.",
+      "photo": "",
+      "photoAuto": ""
+    },
+    {
+      "name": "Георгий Чивчан",
+      "city": "Россия, Красноярск",
+      "birthday": "21 января 1986 г.",
+      "team": "ФОРВАРД АВТО",
+      "instagram": "@gocha_chivchyan",
+      "description": "Российский автогонщик-дрифтер Чемпион Сибири 2012 года, трехкратный Чемпион России (2011, 2013, 2014), пилот Чемпионата Японии D1GP 2013 года, участник D1GP (2013, 2014, 2015), чемпион Российской дрифт серии GP 2017, 2018, 2019. 2018 и 2019 года — победитель FIA Intercontinental Drifting Cup. В настоящее время выступает в отделении Российской Дрифт Серии GP на Nissan Silvia S15 с мотором 2JZ-GTE, за команду ФОРВАРД-АВТО.",
+      "auto": "Nissan GT-R VR38, 3.8, 750 л.с.",
+      "photo": "",
+      "photoAuto": ""
+    },
+    {
+      "name": "Никита Шиков",
+      "city": "Россия, Москва",
+      "birthday": "13 мая 1986 г.",
+      "team": "Carville Racing",
+      "instagram": "@shikov_nikita",
+      "description": "Российский автогонщик-дрифтер, двукратный вице-чемпион RDS GP, амбассадор Toyota Gazoo Racing. Победитель международного кубка «Автоэкзотика», многократный участник и призер Российских и международных соревнований. Первый дрифтер проехавший на Сочи Автодром знаменитый «третий поворот» в заносе.",
+      "auto": "Toyota Supra A90 2JZ-GTE, 3.4, 1013 л.с.",
+      "photo": "",
+      "photoAuto": ""
+    },
+    {
+      "name": "Владислав Шубадёров",
+      "city": "Беларусь, Минск",
+      "birthday": "19 января 1996 г.",
+      "team": "",
+      "instagram": "@vladislav_shubaderov",
+      "description": "",
+      "auto": "Nissan Silvia S15 2JZ, 3.0, 700 л.с.",
+      "photo": "",
+      "photoAuto": ""
+    },
+    {
+      "name": "Антон Шендеров",
+      "city": "Беларусь, Минск",
+      "birthday": "9 января 1991 г.",
+      "team": "TonyMotors",
+      "instagram": "@tony_drives",
+      "description": "",
+      "auto": "Nissan S13 2JZ-GE, 3.0, 400 л.с.",
+      "photo": "",
+      "photoAuto": ""
+    },
+    {
+      "name": "Виталий Силивончик",
+      "city": "Беларусь, Минск",
+      "birthday": "11 июля 1988 г.",
+      "team": "VVS DRIFT TEAM",
+      "instagram": "@vitalisilivonchyk",
+      "description": "",
+      "auto": "Nissan 200SX 2JZ, 3.0, 680 л.с.",
+      "photo": "",
+      "photoAuto": ""
+    },
+    {
+      "name": "Алексей Головня",
+      "city": "Украина, Киев",
+      "birthday": "16 декабря 1988 г.",
+      "team": "LUKOIL Racing Drift Team",
+      "instagram": "@alexgolovnya",
+      "description": "",
+      "auto": "Nissan Silvia S14 2JZ, 3.0, 700 л.с.",
+      "photo": "",
+      "photoAuto": ""
+    },
+    {
+      "name": "Gediminas Levickas",
+      "city": "Литва, Вильнюс",
+      "birthday": "28 февраля 1985 г.",
+      "team": "Side to Side & Urta drift team",
+      "instagram": "@levickasgediminas",
+      "description": "",
+      "auto": "Nissan Silvia S14 2JZ, 3.0, 500 л.с.",
+      "photo": "",
+      "photoAuto": ""
+    },
+    {
+      "name": "Владимир Ерёмин",
+      "city": "Беларусь, Минск",
+      "birthday": "23 июля 1987 г.",
+      "team": "VVS DRIFT TEAM",
+      "instagram": "@v.barada",
+      "description": "",
+      "auto": "BMW 320 E46 1JZ, 500 л.с.",
+      "photo": "",
+      "photoAuto": ""
+    },
+    {
+      "name": "Benediktas Cirba",
+      "city": "Литва, Вильнюс",
+      "birthday": "16 декабря 1993 г.",
+      "team": "Side to Side & Urta drift team",
+      "instagram": "@benediktascirba",
+      "description": "",
+      "auto": "BMW E92 Eurofighter, 950 л.с.",
+      "photo": "",
+      "photoAuto": ""
+    },
+    {
+      "name": "Валерий Шевелёв",
+      "city": "Украина, Киев",
+      "birthday": "15 сентября 1982 г.",
+      "team": "",
+      "instagram": "@valeriy.shevelev",
+      "description": "",
+      "auto": "Nissan Silvia S14 2JZ, 500 л.с.",
+      "photo": "",
+      "photoAuto": ""
+    },
+    {
+      "name": "Артур Подлужный",
+      "city": "Украина, Киев",
+      "birthday": "2 января 1988 г.",
+      "team": "@artur.podluzhnyi",
+      "instagram": "",
+      "description": "",
+      "auto": "Toyota GT86 2JZ, 3.0, 800 л.с.",
+      "photo": "",
+      "photoAuto": ""
+    },
+    {
+      "name": "Ростислав Рараговский",
+      "city": "Украина, Киев",
+      "birthday": "24 января 1987 г.",
+      "team": "",
+      "instagram": "@raragovskyi",
+      "description": "",
+      "auto": "Toyota GT86 2GT GTE, 3.4, 1116 л.с.",
+      "photo": "",
+      "photoAuto": ""
     }
   ]
 }
