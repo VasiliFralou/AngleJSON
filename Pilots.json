@@ -208,6 +208,28 @@
       "auto": "Toyota GT86 2GT GTE, 3.4, 1116 л.с.",
       "photo": "https://i.postimg.cc/QdrX9Cm1/Rostislav-Raragovskyi.png",
       "photoAuto": "https://i.postimg.cc/dvCJTMg1/Rostislav-Raragovskyi.jpg"
+    },
+    {
+      "name": "Меленкевич Борис",
+      "city": "Беларусь, Брест",
+      "birthday": "",
+      "team": "korCHEDrift",
+      "instagram": "@korchedrift",
+      "description": "",
+      "auto": "BMW E36 M60B40 Turbo, 4.0, 500 л.с.",
+      "photo": "",
+      "photoAuto": ""
+    },
+    {
+      "name": "Цареградцев, Аркадий",
+      "city": "Россия, Красноярск",
+      "birthday": "5 декабря 1982 г.",
+      "team": "FailCrew Дарксайд",
+      "instagram": "@tsaregradsev_ark",
+      "description": "Аркадий Петрович Цареградцев — российский автогонщик-дрифтер, организатор, судья, Чемпион Сибири 2013, 2014 и 2016 года. В настоящее время выступает в отделении Российской Дрифт Серии GP на Nissan 370Z с мотором VR38DETT, за команду FailCrew Дарксайд.",
+      "auto": "Nissan 370Z VR38DETT, 3.8, 953 л.с.",
+      "photo": "https://i.postimg.cc/NGzFMQZk/Arkady-Tsaregradtsev.png",
+      "photoAuto": "https://i.postimg.cc/632W4m71/Arkady-Tsaregradtsev.jpg"
     }
   ]
 }
