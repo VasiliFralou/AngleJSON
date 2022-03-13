@@ -1,39 +1,11 @@
 {
   "News" : [
-    {
-      "date" : "30 сентября 2021",
-      "description" : "26 сентября в Раубичах прошло самое долгожданное событие года в – состоялись главные дрифт-соревнования сезона-2021 –  Кубок Восточной Европы по дрифтингу – EEDC 2021!",
-      "title" : "Дым, солнце и дождь. Как прошел Parimatch Кубок Восточной Европы по дрифтингу",
-      "urlImg" : "https://i.postimg.cc/JhZJhJYJ/1.png",
-      "urlPost" : "https://docs.google.com/document/d/1aQJJCgtpSO_3Xbg9JQEcY61eV8KNLdIl"
-    },
-    {
-      "date" : "5 октября 2021",
-      "description" : "Долгожданный финал Pro2 пройдёт 10 октября на кольцевой трассе в «Стайках» (д. Прилесье).",
-      "title" : "Закрытие сезона дрифта на кольцевой трассе в «Стайках» 10 октября!",
-      "urlImg" : "https://i.postimg.cc/dQB2d2sj/3.jpg",
-      "urlPost" : "https://docs.google.com/document/d/1alJHJtAXbkRxhA5HFOf-eeC7Mvep_Irq"
-    },
-    {
-      "date" : "12 октября 2021",
-      "description" : "В это воскресенье в «Стайках» прошёл заключительный этап младшей лиги по дрифту Pro2.",
-      "title" : "Дрифтеры младшей лиги завершили сезон в «Стайках»",
-      "urlImg" : "https://i.postimg.cc/65pdh8TJ/4.jpg",
-      "urlPost" : "https://docs.google.com/document/d/1arvJVppHcakAunuShlSRU1C1CQzLd2Nk"
-    },
-    {
-      "date" : "15 октября 2021",
-      "description" : "Этот сезон запомнился приходом новой волны легионеров – и тем, что дрифтеры стали помогать в испытаниях запчастей для серийных машин",
-      "title" : "В эти выходные – финал русского дрифта. Чемпионом может стать ирландец",
-      "urlImg" : "https://i.postimg.cc/85Gvf5xY/5.png",
-      "urlPost" : "https://docs.google.com/document/d/1atjOerHTLaYtyR0-_cyJR7RWWdKoZtt5"
-    },
-    {
-      "date" : "29 октября 2021",
-      "description" : "Закончить дебютный сезон в новом для себя чемпионате на третьем месте в личном зачёте, одержав победу в квалификации и выиграв два этапа на незнакомых трассах — результат отличный для любого пилота.",
-      "title" : "Джеймс Дин: Время покажет, когда я вернусь в RDS GP",
-      "urlImg" : "https://i.postimg.cc/3xymPzgt/6.png",
-      "urlPost" : "https://docs.google.com/document/d/1ayrZERUEIr1soK7H7sq3o6XC2eVprAVE"
+     {
+      "date" : "3 февраля 2022",
+      "description" : "Календарь Parimatch Чемпионат Беларуси по дрифтингу и EEDC – Eastern European Drift Cup",
+      "title" : "Календарь соревнований по дрифтингу 2022",
+      "urlImg" : "https://i.postimg.cc/xd5x6cMw/8.jpg",
+      "urlPost" : "https://docs.google.com/document/d/1fbAUYVPF1bc0C2YVSp4cwPDVsRi-m1Fa"
     },
     {
       "date" : "17 ноября 2021",
@@ -43,11 +15,39 @@
       "urlPost" : "https://docs.google.com/document/d/1aukucbZI4AMfGGX6lSgAZsUCZOhJ7RYi"
     },
     {
-      "date" : "3 февраля 2022",
-      "description" : "Календарь Parimatch Чемпионат Беларуси по дрифтингу и EEDC – Eastern European Drift Cup",
-      "title" : "Календарь соревнований по дрифтингу 2022",
-      "urlImg" : "https://i.postimg.cc/xd5x6cMw/8.jpg",
-      "urlPost" : "https://docs.google.com/document/d/1fbAUYVPF1bc0C2YVSp4cwPDVsRi-m1Fa"
+      "date" : "29 октября 2021",
+      "description" : "Закончить дебютный сезон в новом для себя чемпионате на третьем месте в личном зачёте, одержав победу в квалификации и выиграв два этапа на незнакомых трассах — результат отличный для любого пилота.",
+      "title" : "Джеймс Дин: Время покажет, когда я вернусь в RDS GP",
+      "urlImg" : "https://i.postimg.cc/3xymPzgt/6.png",
+      "urlPost" : "https://docs.google.com/document/d/1ayrZERUEIr1soK7H7sq3o6XC2eVprAVE"
+    },
+    {
+      "date" : "15 октября 2021",
+      "description" : "Этот сезон запомнился приходом новой волны легионеров – и тем, что дрифтеры стали помогать в испытаниях запчастей для серийных машин",
+      "title" : "В эти выходные – финал русского дрифта. Чемпионом может стать ирландец",
+      "urlImg" : "https://i.postimg.cc/85Gvf5xY/5.png",
+      "urlPost" : "https://docs.google.com/document/d/1atjOerHTLaYtyR0-_cyJR7RWWdKoZtt5"
+    },
+    {
+      "date" : "12 октября 2021",
+      "description" : "В это воскресенье в «Стайках» прошёл заключительный этап младшей лиги по дрифту Pro2.",
+      "title" : "Дрифтеры младшей лиги завершили сезон в «Стайках»",
+      "urlImg" : "https://i.postimg.cc/65pdh8TJ/4.jpg",
+      "urlPost" : "https://docs.google.com/document/d/1arvJVppHcakAunuShlSRU1C1CQzLd2Nk"
+    },
+    {
+      "date" : "5 октября 2021",
+      "description" : "Долгожданный финал Pro2 пройдёт 10 октября на кольцевой трассе в «Стайках» (д. Прилесье).",
+      "title" : "Закрытие сезона дрифта на кольцевой трассе в «Стайках» 10 октября!",
+      "urlImg" : "https://i.postimg.cc/dQB2d2sj/3.jpg",
+      "urlPost" : "https://docs.google.com/document/d/1alJHJtAXbkRxhA5HFOf-eeC7Mvep_Irq"
+    },
+    {
+      "date" : "30 сентября 2021",
+      "description" : "26 сентября в Раубичах прошло самое долгожданное событие года в – состоялись главные дрифт-соревнования сезона-2021 –  Кубок Восточной Европы по дрифтингу – EEDC 2021!",
+      "title" : "Дым, солнце и дождь. Как прошел Parimatch Кубок Восточной Европы по дрифтингу",
+      "urlImg" : "https://i.postimg.cc/JhZJhJYJ/1.png",
+      "urlPost" : "https://docs.google.com/document/d/1aQJJCgtpSO_3Xbg9JQEcY61eV8KNLdIl"
     }
   ]
 }
