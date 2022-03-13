@@ -1,29 +1,29 @@
 {
   "Pilots": [
     {
-      "name": "Сергей Сак",
+      "name": "Сак Сергей",
       "city": "Беларусь, Минск",
       "birthday": "14 января 1981 г.",
-      "team": "G-Drive Drift Team",
+      "team": "G-Drive",
       "instagram": "@sergei_sak",
       "description": "Белорусский автогонщик, неоднократный призер различных видов соревнований, как в Беларуси, так и за ее пределами.",
-      "auto": "Nissan 350Z, 5.6, 450 л.с.",
+      "auto": "Nissan 350Z, 5.6, 420 л.с.",
       "photo": "https://i.postimg.cc/zfx5cjrF/Sergei-Sak.png",
       "photoAuto": "https://i.postimg.cc/gGgpPGLM/Sergei-Sak.jpg"
     },
     {
-      "name": "Роман Кондратенко",
+      "name": "Кондратенко Роман",
       "city": "Беларусь, Минск",
       "birthday": "21 мая 1983 г.",
       "team": "Black Star PENGUIN",
       "instagram": "@dikijdrifter",
       "description": "Белорусский автогонщик, действующий чемпион Беларуси по дрифтингу, участник Russian Drift Series GP.",
-      "auto": "Nissan Silvia S13 2JZ, 3.0, 750 л.с.",
+      "auto": "Nissan Silvia S13 2JZ, 3.0, 710 л.с.",
       "photo": "https://i.postimg.cc/fbzDCP6b/Roman-Kondratenko.png",
       "photoAuto": "https://i.postimg.cc/NBwB6Jwx/Roman-Kondratenko.jpg"
     },
     {
-      "name": "Андрей Пискарев",
+      "name": "Пискарев Андрей",
       "city": "Беларусь, Минск",
       "birthday": "10 сентября 1982 г.",
       "team": "",
@@ -34,10 +34,10 @@
       "photoAuto": "https://i.postimg.cc/KZcYn9BW/Andrey-Piskarev.jpg"
     },
     {
-      "name": "Денис Клищевский",
+      "name": "Клищевский Денис",
       "city": "Баларусь, Пинск",
       "birthday": "30 июня 1980 г.",
-      "team": "G-Drive Drift Team",
+      "team": "G-Drive",
       "instagram": "@denis_klischevskiy",
       "description": "Белорусский автогонщик, Денис Клищевский имеет награду «Новичок года 2016», выступает на Nissan S13 с двигателем 2JZ-GTE мощностью 630 л.с.",
       "auto": "Nissan 200SX S13 2JZ, 3.0, 650 л.с.",
@@ -45,7 +45,7 @@
       "photoAuto": "https://i.postimg.cc/QhLx6Nc1/Denis-Klischevskiy.jpg"
     },
     {
-      "name": "Алексей Манчукевич",
+      "name": "Манчукевич Алексей",
       "city": "Беларусь, Минск",
       "birthday": "28 марта 1985 г.",
       "team": "",
@@ -56,7 +56,7 @@
       "photoAuto": "https://i.postimg.cc/Jnf1N5Z7/Alexey-Manchukevich.jpg"
     },
     {
-      "name": "Gediminas Ivanauskas",
+      "name": "Ivanauskas Gediminas",
       "city": "Литва, Вильнюс",
       "birthday": "5 июня 1988 г.",
       "team": "",
@@ -67,7 +67,7 @@
       "photoAuto": "https://i.postimg.cc/KzMb83V6/Gediminas-Ivanauskas.png"
     },
     {
-      "name": "Николай Литвин",
+      "name": "Литвин Николай",
       "city": "Беларусь, Гродно",
       "birthday": "17 июля 1992 г.",
       "team": "Black Star PENGUIN",
@@ -78,7 +78,7 @@
       "photoAuto": "https://i.postimg.cc/7HFDQXJw/Nikolay-Litvin.jpg"
     },
     {
-      "name": "Георгий Чивчан",
+      "name": "Чивчан Георгий",
       "city": "Россия, Красноярск",
       "birthday": "21 января 1986 г.",
       "team": "ФОРВАРД АВТО",
@@ -89,7 +89,7 @@
       "photoAuto": "https://i.postimg.cc/gGszkvQH/Gocha-Chivchyan.jpg"
     },
     {
-      "name": "Никита Шиков",
+      "name": "Шиков Никита",
       "city": "Россия, Москва",
       "birthday": "13 мая 1986 г.",
       "team": "Carville Racing",
@@ -100,7 +100,7 @@
       "photoAuto": "https://i.postimg.cc/TdLf9Bwt/Nikita-Shikov.jpg"
     },
     {
-      "name": "Владислав Шубадёров",
+      "name": "Шубадёров Владислав",
       "city": "Беларусь, Минск",
       "birthday": "19 января 1996 г.",
       "team": "",
@@ -111,7 +111,7 @@
       "photoAuto": "https://i.postimg.cc/m4vs4XhG/Vladislav-Shubaderov.jpg"
     },
     {
-      "name": "Антон Шендеров",
+      "name": "Шендеров Антон",
       "city": "Беларусь, Минск",
       "birthday": "9 января 1991 г.",
       "team": "TonyMotors",
@@ -122,7 +122,7 @@
       "photoAuto": "https://i.postimg.cc/51DjZSW-H/Anton-Shenderov.jpg"
     },
     {
-      "name": "Виталий Силивончик",
+      "name": "Силивончик Виталий",
       "city": "Беларусь, Минск",
       "birthday": "11 июля 1988 г.",
       "team": "VVS DRIFT TEAM",
@@ -133,7 +133,7 @@
       "photoAuto": "https://i.postimg.cc/XVXbjtwn/Vitaliy-Silivonchik.jpg"
     },
     {
-      "name": "Алексей Головня",
+      "name": "Головня Алексей",
       "city": "Украина, Киев",
       "birthday": "16 декабря 1988 г.",
       "team": "LUKOIL Racing Drift Team",
@@ -144,7 +144,7 @@
       "photoAuto": "https://i.postimg.cc/GR5pyx2M/Aleksey-Golovnya.jpg"
     },
     {
-      "name": "Gediminas Levickas",
+      "name": "Levickas Gediminas",
       "city": "Литва, Вильнюс",
       "birthday": "28 февраля 1985 г.",
       "team": "Side to Side & Urta drift team",
@@ -155,7 +155,7 @@
       "photoAuto": "https://i.postimg.cc/wHRjcRR9/Gediminas-Levickas.jpg"
     },
     {
-      "name": "Владимир Ерёмин",
+      "name": "Ерёмин Владимир",
       "city": "Беларусь, Минск",
       "birthday": "23 июля 1987 г.",
       "team": "VVS DRIFT TEAM",
@@ -166,7 +166,7 @@
       "photoAuto": "https://i.postimg.cc/sV8RvKc7/Vladimir-Eremin.jpg"
     },
     {
-      "name": "Benediktas Cirba",
+      "name": "Cirba Benediktas",
       "city": "Литва, Вильнюс",
       "birthday": "16 декабря 1993 г.",
       "team": "Side to Side & Urta drift team",
@@ -177,7 +177,7 @@
       "photoAuto": "https://i.postimg.cc/xfhTVnhr/Benediktas-Cirba.jpg"
     },
     {
-      "name": "Валерий Шевелёв",
+      "name": "Шевелёв Валерий",
       "city": "Украина, Киев",
       "birthday": "15 сентября 1982 г.",
       "team": "",
@@ -188,7 +188,7 @@
       "photoAuto": "https://i.postimg.cc/Cwh0tR5B/Valeriy-Shevelev.jpg"
     },
     {
-      "name": "Артур Подлужный",
+      "name": "Подлужный Артур",
       "city": "Украина, Киев",
       "birthday": "2 января 1988 г.",
       "team": "@artur.podluzhnyi",
@@ -199,7 +199,7 @@
       "photoAuto": "https://i.postimg.cc/BJB6PWLD/Artur-Podluzhniy.jpg"
     },
     {
-      "name": "Ростислав Рараговский",
+      "name": "Рараговский Ростислав",
       "city": "Украина, Киев",
       "birthday": "24 января 1987 г.",
       "team": "",
