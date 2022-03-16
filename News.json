@@ -1,6 +1,13 @@
 {
   "News" : [
     {
+      "date" : "16 марта 2022",
+      "description" : "Старт чемпионат Беларуси по дрифтингу переносится",
+      "title" : "Старт чемпионат Беларуси по дрифтингу переносится",
+      "urlImg" : "https://i.postimg.cc/V1bcfQvv/9.jpg",
+      "urlPost" : "https://docs.google.com/document/d/1gG_vzBtDnlaCZvDSIjB7yr0jIx_2v9Ep"
+    },
+    {
       "date" : "3 февраля 2022",
       "description" : "Календарь Parimatch Чемпионат Беларуси по дрифтингу и EEDC – Eastern European Drift Cup",
       "title" : "Календарь соревнований по дрифтингу 2022",
