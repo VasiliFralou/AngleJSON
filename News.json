@@ -1,11 +1,18 @@
 {
   "News" : [
     {
+      "title" : "Чемпионат Беларуси по дрифтингу стартует в июне",
+      "date" : "03 мая 2022",
+      "description" : "Команда Racing.by сообщила о старте чемпионата Беларуси по дрифтингу",
+      "urlImg" : "https://i.postimg.cc/gYJ8Qmnb/02-05-2022.jpg",
+      "urlPost" : "https://docs.google.com/document/d/1gG_vzBtDnlaCZvDSIjB7yr0jIx_2v9Ep"
+    },
+    {
       "title" : "Старт чемпионат Беларуси по дрифтингу переносится",
       "date" : "16 марта 2022",
       "description" : "Команда Racing.by сообщила о переносе чемпионата Беларуси по дрифтингу на неопределённый срок",
       "urlImg" : "https://i.postimg.cc/V1bcfQvv/9.jpg",
-      "urlPost" : "https://docs.google.com/document/d/1gG_vzBtDnlaCZvDSIjB7yr0jIx_2v9Ep"
+      "urlPost" : "https://docs.google.com/document/d/1gzRLDpKFBoW75DZkGkXEYyS6IvZ_XydY/"
     },
     {
       "title" : "Дешево, сердито и... красиво. Как в Стайках построили бюджетный проект из BMW E36",
