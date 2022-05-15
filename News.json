@@ -1,4 +1,5 @@
-[
+{
+  "News": [
     {
       "title" : "Открытие сезона дрифта – 5 июня, Стайки!",
       "date" : "13 мая 2022",
@@ -84,3 +85,4 @@
       "urlPost" : "https://docs.google.com/document/d/1aQJJCgtpSO_3Xbg9JQEcY61eV8KNLdIl"
     }
   ]
+}
