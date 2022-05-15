@@ -1,4 +1,5 @@
-[
+{
+  "Pilots": [
     {
       "name": "Сак Сергей",
       "city": "Беларусь, Минск",
@@ -231,3 +232,4 @@
       "photoAuto": "https://i.postimg.cc/632W4m71/Arkady-Tsaregradtsev.jpg"
     }
  ]
+}
