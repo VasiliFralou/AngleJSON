@@ -7,6 +7,7 @@
       "longitude": 27.7465482,
       "name": "1-ый этап Чемпионата РБ по дрифтингу",
       "title": "#DriftZarya22"
+      "location": "https://i.postimg.cc/LX4bqv11/Stayki.png"
     },
     {
       "city": "Раубичи, РЦОП Раубичи",
@@ -15,6 +16,7 @@
       "longitude": 27.7324008,
       "name": "2-ой этап Чемпионата РБ по дрифтингу",
       "title": "#DriftRaubichi22"
+      "location": "https://i.postimg.cc/JhLg8R7K/Raubichi.png"
     },
     {
       "city": "Логойск, ГСОК Логойск",
@@ -23,6 +25,7 @@
       "longitude": 27.8076025,
       "name": "3-ый этап Чемпионата РБ по дрифтингу",
       "title": "#DriftLogoisk22"
+      "location": "https://i.postimg.cc/pdJSX3pv/Logoisk.png"
     },
     {
       "city": "Пинск, стадион ДОСААФ",
@@ -31,6 +34,7 @@
       "longitude": 26.1112127,
       "name": "4-ый этап Чемпионата РБ по дрифтингу",
       "title": "#DriftPinsk22"
+      "location": "https://i.postimg.cc/GmYN64RH/Pinsk.png"
     },
     {
       "city": "Прилесье, РСТЦ ДОСААФ",
@@ -39,6 +43,7 @@
       "longitude": 27.7465482,
       "name": "5-ый этап Чемпионата РБ по дрифтингу",
       "title": "#ZaryaFinal22"
+      "location": "https://i.postimg.cc/LX4bqv11/Stayki.png"
     }
   ]
 }
