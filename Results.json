@@ -2,63 +2,63 @@
   "Results": [
     {
       "name": "Кондратенко Роман",
-      "PointsQual1": 5,
-      "PointsRnd1": 100
+      "pointsQual1": 5,
+      "pointsRnd1": 100
     },
     {
       "name": "Клищевский Денис",
-      "PointsQual1": 10,
-      "PointsRnd1": 32
+      "pointsQual1": 10,
+      "pointsRnd1": 32
     },
     {
       "name": "Манчукевич Алексей",
-      "PointsQual1": 3,
-      "PointsRnd1": 16
+      "pointsQual1": 3,
+      "pointsRnd1": 16
     },
     {
       "name": "Литвин Николай",
-      "PointsQual1": 3,
-      "PointsRnd1": 16
+      "pointsQual1": 3,
+      "pointsRnd1": 16
     },
     {
       "name": "Шубадёров Владислав",
-      "PointsQual1": 8,
-      "PointsRnd1": 48
+      "pointsQual1": 8,
+      "pointsRnd1": 48
     },
     {
       "name": "Шендеров Антон",
-      "PointsQual1": 4,
-      "PointsRnd1": 78
+      "pointsQual1": 4,
+      "pointsRnd1": 78
     },
     {
       "name": "Силивончик Виталий",
-      "PointsQual1": 6,
-      "PointsRnd1": 32
+      "pointsQual1": 6,
+      "pointsRnd1": 32
     },
     {
       "name": "Ерёмин Владимир",
-      "PointsQual1": 4,
-      "PointsRnd1": 65
+      "pointsQual1": 4,
+      "pointsRnd1": 65
     },
     {
       "name": "Меленкевич Борис",
-      "PointsQual1": 0,
-      "PointsRnd1": 0
+      "pointsQual1": 0,
+      "pointsRnd1": 0
     },
     {
       "name": "Милинчук Евгений",
-      "PointsQual1": 4,
-      "PointsRnd1": 90
+      "pointsQual1": 4,
+      "pointsRnd1": 90
     },
     {
       "name": "Гроковенко Николай",
-      "PointsQual1": 4,
-      "PointsRnd1": 48
+      "pointsQual1": 4,
+      "pointsRnd1": 48
     },
     {
       "name": "Капшай Павел",
-      "PointsQual1": 3,
-      "PointsRnd1": 16
+      "pointsQual1": 3,
+      "pointsRnd1": 16
     }
  ]
 }
