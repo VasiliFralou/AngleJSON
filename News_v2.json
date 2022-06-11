@@ -40,5 +40,61 @@
       "urlImg" : "https://i.postimg.cc/JhWzTDtt/22-05-22.jpg",
       "urlPost" : "https://auto.onliner.by/2022/05/22/sorevnovaniya-po-driftu-2"
     },
+    {
+      "title" : "Открытие сезона дрифта – 5 июня, Стайки!",
+      "date" : "13 мая 2022",
+      "source" : "drift.by",
+      "description" : "Первая гонка Parimatch Чемпионата Беларуси по дрифтингу 2022 состоится 5 июня на стадионе Заря (Стайки) под Минском! Пилоты и зрители порядком заждались начала сезона, поэтому мы начнем с самой техничной трассы. Конфигурация #DriftZarya уже известна любителям дрифта: длинный разгон, широкая постановка, связка перекладок, прыжок, поворот на 180 градусов – и финиш.",
+      "urlImg" : "https://i.postimg.cc/GpLSHNdz/13-05-22.jpg",
+      "urlPost" : "https://drift.by/otkrytie-sezona-drifta-5-iyunya-stajki/"
+    },
+    {
+      "title" : "«Толщиномером мерить не нужно!» Белорусский дрифтер о Nissan 200SX",
+      "date" : "10 мая 2022",
+      "source" : "av.by",
+      "description" : "В дрифте 30% успеха зависит от технической подготовки, а 70 — от самого пилота. По крайней мере, так утверждает наш герой Виталий, преданный поклонник автоспорта и хозяин жёлтого Nissan 200SX.",
+      "urlImg" : "https://i.postimg.cc/JzwRPPb9/10-05-22.jpg",
+      "urlPost" : "https://av.by/news/drift-korch-nissan-200sx"
+    },
+    {
+      "title" : "Чемпионат Беларуси по дрифтингу стартует в июне",
+      "date" : "03 мая 2022",
+      "source" : "telegram racing.by",
+      "description" : "Команда Racing.by сообщила о старте чемпионата Беларуси по дрифтингу",
+      "urlImg" : "https://i.postimg.cc/gYJ8Qmnb/02-05-2022.jpg",
+      "urlPost" : "https://t.me/racingby/1583"
+    },
+    {
+      "title" : "Старт чемпионат Беларуси по дрифтингу переносится",
+      "date" : "16 марта 2022",
+      "source" : "instagram racing.by",
+      "description" : "Команда Racing.by сообщила о переносе чемпионата Беларуси по дрифтингу на неопределённый срок",
+      "urlImg" : "https://i.postimg.cc/V1bcfQvv/9.jpg",
+      "urlPost" : "https://www.instagram.com/p/CbKEFZbom1X/"
+    },
+    {
+      "title" : "Дешево, сердито и... красиво. Как в Стайках построили бюджетный проект из BMW E36",
+      "date" : "12 марта 2022",
+      "source" : "abw.by",
+      "description" : "Как построить недорогой дрифтовый автомобиль? Вместе с Parimatch встретились с владельцем BMW E36, недавно сделанного для дрифта. Наверное, это самый аккуратный, но при этом бюджетный проект на базе «легенды»",
+      "urlImg" : "https://i.postimg.cc/vT9Sg01Y/12-03-22.jpg",
+      "urlPost" : "https://www.abw.by/novosti/partnership/225279"
+    },
+    {
+      "title" : "Календарь соревнований по дрифтингу 2022",
+      "date" : "3 февраля 2022",
+      "source" : "telegram racing.by",
+      "description" : "Календарь Parimatch Чемпионат Беларуси по дрифтингу и EEDC – Eastern European Drift Cup",
+      "urlImg" : "https://i.postimg.cc/xd5x6cMw/8.jpg",
+      "urlPost" : "https://t.me/racingby/1578"
+    },
+    {
+      "title" : "Моношина Westlake Sport RS на сезон 2022",
+      "date" : "17 ноября 2021",
+      "source" : "drift.by",
+      "description" : "Шины являются основным расходником в дрифте, они реализуют мощность автомобиля, от них зависит скорость движения в дуге, ускорение.",
+      "urlImg" : "https://i.postimg.cc/MTYQ7wSp/7.png",
+      "urlPost" : "https://drift.by/monoshina-westlake-sport-rs-na-sezon-2022/"
+    },
   ]
 }
