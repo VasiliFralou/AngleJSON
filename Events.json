@@ -1,24 +1,6 @@
 {
   "Events": [
     {
-      "city": "Прилесье, РСТЦ ДОСААФ",
-      "day": "5 июня 2022 г.",
-      "latitude": 53.8194204,
-      "longitude": 27.7465482,
-      "name": "1-ый этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftZarya22",
-      "location": "https://i.postimg.cc/LX4bqv11/stayki.png"
-    },
-    {
-      "city": "Раубичи, РЦОП Раубичи",
-      "day": "Уточняется",
-      "latitude": 54.059066,
-      "longitude": 27.7324008,
-      "name": "2-ой этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftRaubichi22 - ПЕРЕНОСИТСЯ",
-      "location": "https://i.postimg.cc/J hLg8R7K/raubichi.png"
-    },
-    {
       "city": "Логойск, ГСОК Логойск",
       "day": "17 июля 2022 г.",
       "latitude": 54.1816601,
@@ -53,6 +35,24 @@
       "name": "EEDC – Eastern European Drift Cup",
       "title": "#EEDC22",
       "location": "https://i.postimg.cc/JhLg8R7K/raubichi.png"
+    },
+    {
+      "city": "Прилесье, РСТЦ ДОСААФ",
+      "day": "5 июня 2022 г.",
+      "latitude": 53.8194204,
+      "longitude": 27.7465482,
+      "name": "1-ый этап Чемпионата РБ по дрифтингу",
+      "title": "#DriftZarya22 - Победитель: Роман Кондратенко",
+      "location": "https://i.postimg.cc/LX4bqv11/stayki.png"
+    },
+    {
+      "city": "Раубичи, РЦОП Раубичи",
+      "day": "Уточняется",
+      "latitude": 54.059066,
+      "longitude": 27.7324008,
+      "name": "2-ой этап Чемпионата РБ по дрифтингу",
+      "title": "#DriftRaubichi22 - ПЕРЕНОСИТСЯ",
+      "location": "https://i.postimg.cc/J hLg8R7K/raubichi.png"
     }
   ]
 }
