@@ -1,5 +1,14 @@
 {
+  
   "News": [
+  {
+      "title" : "Ночной дрифт в Логойске - BETERA Чемпионат Беларуси по дрифтингу 2022",
+      "date" : "1 июля 2022",
+      "source" : "Команда racing.by",
+      "description" : "Racing.by приглашает любителей дрифтинга на самую душевную и уютную гонку – Ночной дрифт в Логойске.",
+      "urlImg" : "https://i.postimg.cc/4dkRyH51/01-07-2022.jpg",
+      "urlPost" : "https://www.ticketpro.by/sportivnye-meropriyatiya/nochnoj-drift-v-logojske-etap-betera-chempionata-belarusi-po-driftingu-17-iyulya-2022/"
+    },
     {
       "title" : "Дрифт 19 июня Раубичи ПЕРЕНОСИТСЯ",
       "date" : "10 июня 2022",
@@ -7,6 +16,14 @@
       "description" : "Дорогие друзья, по объективным причинам мы приняли решение о переносе II этапа Чемпионата Беларуси по дрифтингу в Раубичах.",
       "urlImg" : "https://i.postimg.cc/PTSL169R/10-06-22.jpg",
       "urlPost" : "https://drift.by/notices/drift-19-iyunya-raubichi-perenositsya/"
+    },
+    {
+      "title" : "На старт, внимание, дрифт! Долгожданное начало сезона в Стайках",
+      "date" : "6 июня 2022",
+      "source" : "abw.by",
+      "description" : "Первый этап чемпионата Беларуси по дрифту оказался скромным по составу участников, но таки смог порадовать неожиданными поворотами сюжета, а временами и острой борьбой.",
+      "urlImg" : "https://i.postimg.cc/K8QMP8by/06-06-2022.jpg",
+      "urlPost" : "https://www.abw.by/novosti/autosport/226651"
     },
     {
       "title" : "Список предварительно зарегистрированных пилотов на I этап Чемпионата Беларусь по дрифтингу #DriftZarya",
@@ -59,7 +76,7 @@
     {
       "title" : "Чемпионат Беларуси по дрифтингу стартует в июне",
       "date" : "03 мая 2022",
-      "source" : "telegram racing.by",
+      "source" : "Команда racing.by",
       "description" : "Команда Racing.by сообщила о старте чемпионата Беларуси по дрифтингу",
       "urlImg" : "https://i.postimg.cc/gYJ8Qmnb/02-05-2022.jpg",
       "urlPost" : "https://t.me/racingby/1583"
@@ -67,7 +84,7 @@
     {
       "title" : "Старт чемпионат Беларуси по дрифтингу переносится",
       "date" : "16 марта 2022",
-      "source" : "instagram racing.by",
+      "source" : "Команда racing.by",
       "description" : "Команда Racing.by сообщила о переносе чемпионата Беларуси по дрифтингу на неопределённый срок",
       "urlImg" : "https://i.postimg.cc/V1bcfQvv/9.jpg",
       "urlPost" : "https://www.instagram.com/p/CbKEFZbom1X/"
