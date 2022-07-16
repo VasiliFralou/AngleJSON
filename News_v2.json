@@ -2,6 +2,22 @@
   
   "News": [
     {
+      "title" : "Список предварительно зарегистрированных пилотов",
+      "date" : "14 июля 2022",
+      "source" : "drift.by",
+      "description" : "Список предварительно зарегистрированных пилотов на II этап BETERA Чемпионата Беларуси по дрифтингу 2022",
+      "urlImg" : "https://i.postimg.cc/P5Yz4V01/14-07-22.jpg",
+      "urlPost" : "https://drift.by/spisok-predvaritelno-zaregistrirovannyx-pilotov-na-ii-etap-betera-chempionata-belarusi-po-driftingu-2022/"
+    },
+    {
+      "title" : "Программа дрифта в Логойске 17 июля",
+      "date" : "13 июля 2022",
+      "source" : "drift.by",
+      "description" : "Программа II этапа BETERA Чемпионата Беларуси по дрифтингу – 17 июля, ГСОК Логойск – #DRIFTLOGOISK",
+      "urlImg" : "https://i.postimg.cc/Qxj6H3zv/13-07-22.jpg",
+      "urlPost" : "https://drift.by/programma-drifta-v-logojske-17-iyulya/"
+    },
+    {
       "title" : "Ночной дрифт в Логойске – уже в это воскресенье",
       "date" : "12 июля 2022",
       "source" : "abw.by",
