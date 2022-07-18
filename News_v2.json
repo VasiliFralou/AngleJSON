@@ -2,12 +2,20 @@
   
   "News": [
     {
-      "title" : "",
+      "title" : "Первый этап PRO2 по дрифту Matsuri Zarya пройдёт 24 июля",
       "date" : "18 июля 2022",
       "source" : "av.by",
-      "description" : "Первый этап PRO2 по дрифту Matsuri Zarya пройдёт 24 июля",
+      "description" : "В воскресенье, 24 июля, пройдёт долгожданный первый этап PRO2 по дрифту на кольцевой трассе в «Стайках» (д. Прилесье).",
       "urlImg" : "https://i.postimg.cc/zDd1FN2t/18-07-2022.jpg",
       "urlPost" : "https://av.by/news/1_etap_pro2_drift_2022"
+    },
+    {
+      "title" : "Результаты II этапа BETERA Чемпионата Беларуси по дрифтингу",
+      "date" : "17 июля 2022",
+      "source" : "drift.by",
+      "description" : "2 этап BETERA Чемпионат Республики Беларусь 2022 года по дрифтингу",
+      "urlImg" : "https://i.postimg.cc/Kzm8RyJP/17-07-22.png",
+      "urlPost" : "https://drift.by/rezultaty-ii-etapa-betera-chempionata-belarusi-po-driftingu/"
     },
     {
       "title" : "Список предварительно зарегистрированных пилотов",
@@ -32,6 +40,14 @@
       "description" : "Команда Racing.by анонсировала \"самую душевную и уютную гонку\" – ночной дрифт в Логойске. Он пройдет в воскресенье, 17 июля.",
       "urlImg" : "https://i.postimg.cc/sxFk7ynm/12-07-2022.jpg",
       "urlPost" : "https://www.abw.by/novosti/autosport/227186"
+    },
+    {
+      "title" : "Дрифтеры лиги PRO2 откроют сезон 24 июля в Стайках",
+      "date" : "8 июля 2022",
+      "source" : "abw.by",
+      "description" : "Организаторы объясняют поздний старт чемпионата тем, что \"хотят открыть сезон так же красиво, как закрыли его в прошлом году\".",
+      "urlImg" : "https://i.postimg.cc/sxFk7ynm/12-07-2022.jpg",
+      "urlPost" : "https://www.abw.by/novosti/autosport/227133"
     },
     {
       "title" : "Ночной дрифт в Логойске - BETERA Чемпионат Беларуси по дрифтингу 2022",
