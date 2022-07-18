@@ -2,6 +2,14 @@
   
   "News": [
     {
+      "title" : "",
+      "date" : "18 июля 2022",
+      "source" : "av.by",
+      "description" : "Первый этап PRO2 по дрифту Matsuri Zarya пройдёт 24 июля",
+      "urlImg" : "https://i.postimg.cc/zDd1FN2t/18-07-2022.jpg",
+      "urlPost" : "https://av.by/news/1_etap_pro2_drift_2022"
+    },
+    {
       "title" : "Список предварительно зарегистрированных пилотов",
       "date" : "14 июля 2022",
       "source" : "drift.by",
