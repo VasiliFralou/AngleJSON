@@ -2,11 +2,19 @@
   
   "News": [
     {
+      "title" : "Ночной дрифт — такое бывает один раз в год",
+      "date" : "18 июля 2022",
+      "source" : "onliner.by",
+      "description" : "Вечер воскресенья в горнолыжном комплексе «Логойск» был как никогда шумным: несколько тысяч зрителей наблюдали за действиями второго этапа чемпионата страны по дрифтингу.",
+      "urlImg" : "https://i.postimg.cc/bYT3FN9j/18-07-22.jpg",
+      "urlPost" : "https://av.by/news/1_etap_pro2_drift_2022"
+    },
+    {
       "title" : "Первый этап PRO2 по дрифту Matsuri Zarya пройдёт 24 июля",
       "date" : "18 июля 2022",
       "source" : "av.by",
       "description" : "В воскресенье, 24 июля, пройдёт долгожданный первый этап PRO2 по дрифту на кольцевой трассе в «Стайках» (д. Прилесье).",
-      "urlImg" : "https://i.postimg.cc/zDd1FN2t/18-07-2022.jpg",
+      "urlImg" : "https://i.postimg.cc/zDd1FN2t/18-07-22.jpg",
       "urlPost" : "https://av.by/news/1_etap_pro2_drift_2022"
     },
     {
