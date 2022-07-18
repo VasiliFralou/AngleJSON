@@ -4,49 +4,65 @@
       "name": "Кондратенко Роман",
       "pointsQual1": 5,
       "pointsRnd1": 100,
-      "pointResult": 105
+      "pointsQual2": 10,
+      "pointsRnd2": 100,
+      "pointResult": 215
     },
     {
       "name": "Клищевский Денис",
       "pointsQual1": 10,
       "pointsRnd1": 32,
-      "pointResult": 42
+      "pointsQual2": 5,
+      "pointsRnd2": 90,
+      "pointResult": 137
     },
     {
       "name": "Манчукевич Алексей",
       "pointsQual1": 3,
       "pointsRnd1": 16,
-      "pointResult": 19
+      "pointsQual2": 3,
+      "pointsRnd2": 65,
+      "pointResult": 87
     },
     {
       "name": "Литвин Николай",
       "pointsQual1": 3,
       "pointsRnd1": 16,
-      "pointResult": 19
+      "pointsQual2": 8,
+      "pointsRnd2": 48,
+      "pointResult": 75
     },
     {
       "name": "Шубадёров Владислав",
       "pointsQual1": 8,
       "pointsRnd1": 48,
-      "pointResult": 56
+      "pointsQual2": 6,
+      "pointsRnd2": 32,
+      "pointResult": 94
     },
     {
       "name": "Шендеров Антон",
       "pointsQual1": 4,
       "pointsRnd1": 78,
-      "pointResult": 82
+      "pointsQual2": 4,
+      "pointsRnd2": 78,
+      "pointResult": 164
     },
     {
       "name": "Силивончик Виталий",
       "pointsQual1": 6,
       "pointsRnd1": 32,
-      "pointResult": 38
+      "pointsQual2": 3,
+      "pointsRnd2": 16,
+      "pointResult": 57
     },
     {
       "name": "Ерёмин Владимир",
       "pointsQual1": 4,
       "pointsRnd1": 65,
-      "pointResult": 69
+      "pointsQual2": 4,
+      "pointsRnd2": 16,
+      "pointResult": 89
     },
     {
       "name": "Меленкевич Борис",
@@ -58,7 +74,9 @@
       "name": "Милинчук Евгений",
       "pointsQual1": 4,
       "pointsRnd1": 90,
-      "pointResult": 94
+      "pointsQual2": 3,
+      "pointsRnd2": 16,
+      "pointResult": 113
     },
     {
       "name": "Гроковенко Николай",
@@ -70,7 +88,27 @@
       "name": "Капшай Павел",
       "pointsQual1": 3,
       "pointsRnd1": 16,
+      "pointsQual2": 4,
+      "pointsRnd2": 32,
+      "pointResult": 55
+    },
+    {
+      "name": "Карелин Алексей",
+      "pointsQual2": 4,
+      "pointsRnd2": 48,
+      "pointResult": 52
+    },
+    {
+      "name": "Пак Михаил",
+      "pointsQual2": 3,
+      "pointsRnd2": 16,
       "pointResult": 19
+    },
+    {
+      "name": "Дзежиц Фёдор",
+      "pointsQual2": 0,
+      "pointsRnd2": 0,
+      "pointResult": 0
     }
  ]
 }
