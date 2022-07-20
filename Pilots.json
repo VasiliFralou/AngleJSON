@@ -1,6 +1,15 @@
 {
   "Pilots": [
     {
+      "name": "Капшай Павел",
+      "city": "Беларусь, Плещеницы",
+      "birthday": "10 марта 1996 г.",
+      "instagram": "kapshai",
+      "auto": "BMW E30 2JZ, 3.0, 450 л.с.",
+      "photo": "https://i.postimg.cc/pXdRd9Kf/Pavel-Kapshai.png",
+      "photoAuto": "https://i.postimg.cc/nZS3CjKC/Pavel-Kapshai.jpg"
+    },
+    {
       "name": "Сак Сергей",
       "city": "Беларусь, Минск",
       "birthday": "14 января 1981 г.",
