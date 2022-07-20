@@ -1,6 +1,17 @@
 {
   "Pilots": [
     {
+      "name": "Милинчук Евгений",
+      "city": "Беларусь, Минск",
+      "birthday": "28 ноября 1986 г.",
+      "team": "TonyMotors",
+      "instagram": "evgenii.milinchuk",
+      "description": "Серебрянный призёр 1-ого этапа чемпионата Беларуси по дрифту 2022"
+      "auto": "Toyota Celica, 2.8, 520 л.с.",
+      "photo": "https://i.postimg.cc/wj2M5JTf/Evgenii-Milinchuk.png",
+      "photoAuto": "https://i.postimg.cc/bzW6NLGy/Evgenii-Milinchuk.jpg"
+    },
+    {
       "name": "Капшай Павел",
       "city": "Беларусь, Плещеницы",
       "birthday": "10 марта 1996 г.",
