@@ -1,130 +1,221 @@
 {
+  
   "News": [
+    {
+      "title" : "Есть ли дрифт на Volvo? Как построить бюджетный \"корч\" на почти 300 сил",
+      "date" : "23 июля 2022",
+      "source" : "abw.by",
+      "description" : "Обычно для постройки бюджетного дрифт-\"корча\" используют BMW. Максим пошел нестандартным путем – который год строит и гоняется на Volvo. В этом году он сменил эффектный белый седан 740 на серый универсал 745.",
+      "urlImg" : "https://i.postimg.cc/MTJfHnxL/23-07-22.jpg",
+      "urlPost" : "https://www.abw.by/novosti/autosport/227285"
+    },
+    {
+      "title" : "Роман построил BMW с управлением как в симуляторе – и все стало только хуже",
+      "date" : "19 июля 2022",
+      "source" : "abw.by",
+      "description" : "Да, только хуже – в плане интриги. Ведь Роман Кондратенко и до того был силен, а с новой машиной стал еще сильнее. Хотя именно в Логойске у его соперников, возможно, и был шанс отыграться.",
+      "urlImg" : "https://i.postimg.cc/j5d8TPpN/19-07-22.jpg",
+      "urlPost" : "https://www.abw.by/novosti/autosport/227263"
+    },
+    {
+      "title" : "Ночной дрифт — такое бывает один раз в год",
+      "date" : "18 июля 2022",
+      "source" : "onliner.by",
+      "description" : "Вечер воскресенья в горнолыжном комплексе «Логойск» был как никогда шумным: несколько тысяч зрителей наблюдали за действиями второго этапа чемпионата страны по дрифтингу.",
+      "urlImg" : "https://i.postimg.cc/bYT3FN9j/18-07-22.jpg",
+      "urlPost" : "https://av.by/news/1_etap_pro2_drift_2022"
+    },
+    {
+      "title" : "Первый этап PRO2 по дрифту Matsuri Zarya пройдёт 24 июля",
+      "date" : "18 июля 2022",
+      "source" : "av.by",
+      "description" : "В воскресенье, 24 июля, пройдёт долгожданный первый этап PRO2 по дрифту на кольцевой трассе в «Стайках» (д. Прилесье).",
+      "urlImg" : "https://i.postimg.cc/zDd1FN2t/18-07-22.jpg",
+      "urlPost" : "https://av.by/news/1_etap_pro2_drift_2022"
+    },
+    {
+      "title" : "Результаты II этапа BETERA Чемпионата Беларуси по дрифтингу",
+      "date" : "17 июля 2022",
+      "source" : "drift.by",
+      "description" : "2 этап BETERA Чемпионат Республики Беларусь 2022 года по дрифтингу",
+      "urlImg" : "https://i.postimg.cc/Kzm8RyJP/17-07-22.png",
+      "urlPost" : "https://drift.by/rezultaty-ii-etapa-betera-chempionata-belarusi-po-driftingu/"
+    },
+    {
+      "title" : "Список предварительно зарегистрированных пилотов",
+      "date" : "14 июля 2022",
+      "source" : "drift.by",
+      "description" : "Список предварительно зарегистрированных пилотов на II этап BETERA Чемпионата Беларуси по дрифтингу 2022",
+      "urlImg" : "https://i.postimg.cc/P5Yz4V01/14-07-22.jpg",
+      "urlPost" : "https://drift.by/spisok-predvaritelno-zaregistrirovannyx-pilotov-na-ii-etap-betera-chempionata-belarusi-po-driftingu-2022/"
+    },
+    {
+      "title" : "Программа дрифта в Логойске 17 июля",
+      "date" : "13 июля 2022",
+      "source" : "drift.by",
+      "description" : "Программа II этапа BETERA Чемпионата Беларуси по дрифтингу – 17 июля, ГСОК Логойск – #DRIFTLOGOISK",
+      "urlImg" : "https://i.postimg.cc/Qxj6H3zv/13-07-22.jpg",
+      "urlPost" : "https://drift.by/programma-drifta-v-logojske-17-iyulya/"
+    },
+    {
+      "title" : "Ночной дрифт в Логойске – уже в это воскресенье",
+      "date" : "12 июля 2022",
+      "source" : "abw.by",
+      "description" : "Команда Racing.by анонсировала \"самую душевную и уютную гонку\" – ночной дрифт в Логойске. Он пройдет в воскресенье, 17 июля.",
+      "urlImg" : "https://i.postimg.cc/sxFk7ynm/12-07-2022.jpg",
+      "urlPost" : "https://www.abw.by/novosti/autosport/227186"
+    },
+    {
+      "title" : "Дрифтеры лиги PRO2 откроют сезон 24 июля в Стайках",
+      "date" : "8 июля 2022",
+      "source" : "abw.by",
+      "description" : "Организаторы объясняют поздний старт чемпионата тем, что \"хотят открыть сезон так же красиво, как закрыли его в прошлом году\".",
+      "urlImg" : "https://i.postimg.cc/pLjMD1Sp/08-07-2022.jpg",
+      "urlPost" : "https://www.abw.by/novosti/autosport/227133"
+    },
+    {
+      "title" : "Ночной дрифт в Логойске - BETERA Чемпионат Беларуси по дрифтингу 2022",
+      "date" : "1 июля 2022",
+      "source" : "drift.by",
+      "description" : "Racing.by приглашает любителей дрифтинга на самую душевную и уютную гонку – Ночной дрифт в Логойске.",
+      "urlImg" : "https://i.postimg.cc/76cZYZR1/01-07-2022.jpg",
+      "urlPost" : "https://drift.by/nochnoj-drift-v-logojske-17-iyulya-betera-chempionat-belarusi-po-driftingu-2022/"
+    },
     {
       "title" : "Дрифт 19 июня Раубичи ПЕРЕНОСИТСЯ",
       "date" : "10 июня 2022",
+      "source" : "drift.by",
       "description" : "Дорогие друзья, по объективным причинам мы приняли решение о переносе II этапа Чемпионата Беларуси по дрифтингу в Раубичах.",
       "urlImg" : "https://i.postimg.cc/PTSL169R/10-06-22.jpg",
-      "urlPost" : "https://docs.google.com/document/d/1xXxEtzYwyXsfvsBf2ca0hWlyV33Jv-5H"
+      "urlPost" : "https://drift.by/notices/drift-19-iyunya-raubichi-perenositsya/"
+    },
+    {
+      "title" : "На старт, внимание, дрифт! Долгожданное начало сезона в Стайках",
+      "date" : "6 июня 2022",
+      "source" : "abw.by",
+      "description" : "Первый этап чемпионата Беларуси по дрифту оказался скромным по составу участников, но таки смог порадовать неожиданными поворотами сюжета, а временами и острой борьбой.",
+      "urlImg" : "https://i.postimg.cc/K8QMP8by/06-06-2022.jpg",
+      "urlPost" : "https://www.abw.by/novosti/autosport/226651"
     },
     {
       "title" : "Список предварительно зарегистрированных пилотов на I этап Чемпионата Беларусь по дрифтингу #DriftZarya",
       "date" : "2 июня 2022",
+      "source" : "drift.by",
       "description" : "Как вы знаете, Балтийские автомобильные федерации запретили своим пилотам участвовать в любых соревнованиях в Беларуси, ситуация в Украине не про автоспорт. Мы ждем момент, когда снова встретимся с нашими друзьями на старте.",
       "urlImg" : "https://i.postimg.cc/K8Lxsk3s/02-06-22.png",
-      "urlPost" : "https://docs.google.com/document/d/1xW1ojsvsgcPH2X9VHMoOlV2NvhReWmVP"
+      "urlPost" : "https://drift.by/spisok-predvaritelno-zaregistrirovannyx-pilotov-na-i-etap-chempionata-belarus-po-driftingu/"
     },
     {
       "title" : "Дождались! Чемпионат страны по дрифту стартует в Стайках 5 июня",
       "date" : "31 мая 2022",
+      "source" : "abw.by",
       "description" : "В ближайшее воскресенье, 5 июня, на стадионе \"Заря\" (Стайки) под Минском пройдет первая гонка Parimatch чемпионата Беларуси по дрифту 2022. Одним из новшеств гонки станет переход на моношину.",
       "urlImg" : "https://i.postimg.cc/Xv8J4LpM/31-05-22.jpg",
-      "urlPost" : "https://docs.google.com/document/d/10GcGXPz6Bk1pXP37-XAk4R0c_f3UgNoL"
+      "urlPost" : "https://www.abw.by/novosti/autosport/226568"
     },
     {
       "title" : "Большое интервью с Айком Симоняном: «Соревнованиям быть!»",
       "date" : "28 мая 2022",
+      "source" : "av.by",
       "description" : "Этот год стал переломным для всех представителей автосферы: рост цен на запчасти, сокращение количества тематических мероприятий — то, с чем столкнулись и крупные компании, и рядовые автолюбители. Трудности не могли не затронуть автоспорт, однако организаторы чемпионата Беларуси по дрифту и генеральный партнёр проекта Parimatch решили не сдаваться, хотя старт сезона всё же пришлось перенести с апреля на июнь.",
       "urlImg" : "https://i.postimg.cc/kny177Pt/28-05-22.jpg",
-      "urlPost" : "https://docs.google.com/document/d/1x7zlvnzPTE7dCy_lXcFrKxa4Wc9yJ-JI"
+      "urlPost" : "https://av.by/news/drift-v-belarusi"
     },
     {
       "title" : "Много BMW и дыма. Под Минском прошли соревнования по дрифту",
       "date" : "22 мая 2022",
+      "source" : "onliner.by",
       "description" : "Сегодня в деревне Прилесье прошли любительские соревнования по дрифту #STAYKI_DRIFT. Да, сильнейших гонщиков страны с мощнейшими машинами там не было, но посмотреть было на что. Как ребята давали угла, гоняли на машинах самой популярной в стране марки для дрифта (конечно, это BMW), как дымились покрышки и на глазах лысела резина. Для тех, кто не успел это все увидеть, фоторепортаж Onlíner.",
       "urlImg" : "https://i.postimg.cc/JhWzTDtt/22-05-22.jpg",
-      "urlPost" : "https://docs.google.com/document/d/10Ijk2x9HpBHG_KYCIbM4ho0QQPT3dj7c"
+      "urlPost" : "https://auto.onliner.by/2022/05/22/sorevnovaniya-po-driftu-2"
     },
     {
       "title" : "Открытие сезона дрифта – 5 июня, Стайки!",
       "date" : "13 мая 2022",
+      "source" : "drift.by",
       "description" : "Первая гонка Parimatch Чемпионата Беларуси по дрифтингу 2022 состоится 5 июня на стадионе Заря (Стайки) под Минском! Пилоты и зрители порядком заждались начала сезона, поэтому мы начнем с самой техничной трассы. Конфигурация #DriftZarya уже известна любителям дрифта: длинный разгон, широкая постановка, связка перекладок, прыжок, поворот на 180 градусов – и финиш.",
       "urlImg" : "https://i.postimg.cc/GpLSHNdz/13-05-22.jpg",
-      "urlPost" : "https://docs.google.com/document/d/1h3oyVFJmwHYhtIvS_-G06Yhqrc5MjIA_"
+      "urlPost" : "https://drift.by/otkrytie-sezona-drifta-5-iyunya-stajki/"
     },
     {
       "title" : "«Толщиномером мерить не нужно!» Белорусский дрифтер о Nissan 200SX",
       "date" : "10 мая 2022",
+      "source" : "av.by",
       "description" : "В дрифте 30% успеха зависит от технической подготовки, а 70 — от самого пилота. По крайней мере, так утверждает наш герой Виталий, преданный поклонник автоспорта и хозяин жёлтого Nissan 200SX.",
       "urlImg" : "https://i.postimg.cc/JzwRPPb9/10-05-22.jpg",
-      "urlPost" : "https://docs.google.com/document/d/1-4I2VLIK-k_LVNxz6Zoy820gpTtzRWNE"
+      "urlPost" : "https://av.by/news/drift-korch-nissan-200sx"
     },
     {
       "title" : "Чемпионат Беларуси по дрифтингу стартует в июне",
       "date" : "03 мая 2022",
+      "source" : "Команда racing.by",
       "description" : "Команда Racing.by сообщила о старте чемпионата Беларуси по дрифтингу",
       "urlImg" : "https://i.postimg.cc/gYJ8Qmnb/02-05-2022.jpg",
-      "urlPost" : "https://docs.google.com/document/d/1gzRLDpKFBoW75DZkGkXEYyS6IvZ_XydY"
+      "urlPost" : "https://t.me/racingby/1583"
     },
     {
       "title" : "Старт чемпионат Беларуси по дрифтингу переносится",
       "date" : "16 марта 2022",
+      "source" : "Команда racing.by",
       "description" : "Команда Racing.by сообщила о переносе чемпионата Беларуси по дрифтингу на неопределённый срок",
       "urlImg" : "https://i.postimg.cc/V1bcfQvv/9.jpg",
-      "urlPost" : "https://docs.google.com/document/d/1gG_vzBtDnlaCZvDSIjB7yr0jIx_2v9Ep"
+      "urlPost" : "https://www.instagram.com/p/CbKEFZbom1X/"
     },
     {
       "title" : "Дешево, сердито и... красиво. Как в Стайках построили бюджетный проект из BMW E36",
       "date" : "12 марта 2022",
+      "source" : "abw.by",
       "description" : "Как построить недорогой дрифтовый автомобиль? Вместе с Parimatch встретились с владельцем BMW E36, недавно сделанного для дрифта. Наверное, это самый аккуратный, но при этом бюджетный проект на базе «легенды»",
       "urlImg" : "https://i.postimg.cc/vT9Sg01Y/12-03-22.jpg",
-      "urlPost" : "https://docs.google.com/document/d/1gRYfhJEllcH6sRHx0sR2t2DdVgxEMaGS"
+      "urlPost" : "https://www.abw.by/novosti/partnership/225279"
     },
     {
       "title" : "Календарь соревнований по дрифтингу 2022",
       "date" : "3 февраля 2022",
+      "source" : "telegram racing.by",
       "description" : "Календарь Parimatch Чемпионат Беларуси по дрифтингу и EEDC – Eastern European Drift Cup",
       "urlImg" : "https://i.postimg.cc/xd5x6cMw/8.jpg",
-      "urlPost" : "https://docs.google.com/document/d/1fbAUYVPF1bc0C2YVSp4cwPDVsRi-m1Fa"
+      "urlPost" : "https://t.me/racingby/1578"
     },
     {
       "title" : "Моношина Westlake Sport RS на сезон 2022",
       "date" : "17 ноября 2021",
+      "source" : "drift.by",
       "description" : "Шины являются основным расходником в дрифте, они реализуют мощность автомобиля, от них зависит скорость движения в дуге, ускорение.",
       "urlImg" : "https://i.postimg.cc/MTYQ7wSp/7.png",
-      "urlPost" : "https://docs.google.com/document/d/1aukucbZI4AMfGGX6lSgAZsUCZOhJ7RYi"
-    },
-    {
-      "title" : "Джеймс Дин: Время покажет, когда я вернусь в RDS GP",
-      "date" : "29 октября 2021",
-      "description" : "Закончить дебютный сезон в новом для себя чемпионате на третьем месте в личном зачёте, одержав победу в квалификации и выиграв два этапа на незнакомых трассах — результат отличный для любого пилота.",
-      "urlImg" : "https://i.postimg.cc/3xymPzgt/6.png",
-      "urlPost" : "https://docs.google.com/document/d/1ayrZERUEIr1soK7H7sq3o6XC2eVprAVE"
-    },   
-    {
-      "title" : "В эти выходные – финал русского дрифта. Чемпионом может стать ирландец",
-      "date" : "15 октября 2021",
-      "description" : "Этот сезон запомнился приходом новой волны легионеров – и тем, что дрифтеры стали помогать в испытаниях запчастей для серийных машин",
-      "urlImg" : "https://i.postimg.cc/85Gvf5xY/5.png",
-      "urlPost" : "https://docs.google.com/document/d/1atjOerHTLaYtyR0-_cyJR7RWWdKoZtt5"
+      "urlPost" : "https://drift.by/monoshina-westlake-sport-rs-na-sezon-2022/"
     },
     {
       "title" : "Дрифтеры младшей лиги завершили сезон в «Стайках»",
       "date" : "12 октября 2021",
+      "source" : "av.by",
       "description" : "В это воскресенье в «Стайках» прошёл заключительный этап младшей лиги по дрифту Pro2.",
       "urlImg" : "https://i.postimg.cc/65pdh8TJ/4.jpg",
-      "urlPost" : "https://docs.google.com/document/d/1arvJVppHcakAunuShlSRU1C1CQzLd2Nk"
+      "urlPost" : "https://av.by/news/driftery-mladshej-ligi-zavershili-sezon-v-stajkah"
     },
     {
       "title" : "Закрытие сезона дрифта на кольцевой трассе в «Стайках» 10 октября!",
       "date" : "5 октября 2021",
+      "source" : "av.by",
       "description" : "Долгожданный финал Pro2 пройдёт 10 октября на кольцевой трассе в «Стайках» (д. Прилесье).",
       "urlImg" : "https://i.postimg.cc/dQB2d2sj/3.jpg",
-      "urlPost" : "https://docs.google.com/document/d/1alJHJtAXbkRxhA5HFOf-eeC7Mvep_Irq"
+      "urlPost" : "https://av.by/news/zakrytie-sezona-drifta-na-kolcevoj-trasse-v-stajkah-10-oktyabrya"
     },
-    {
+     {
       "title" : "Таню с Ваней занесло... Сколько времени нужно девушке и эксперту, чтобы научиться азам дрифта",
       "date" : "1 октября 2021",
+      "source" : "abw.by",
       "description" : "Осень, дети идут в школу, а мы с Таней отправились в дрифт-школу. И это правильно. Сколько можно смотреть на дрифтеров со стороны? Мы сами хотим научиться раздавать боком!",
       "urlImg" : "https://i.postimg.cc/FsC0ChJf/2.jpg",
-      "urlPost" : "https://docs.google.com/document/d/1al06CHAS5Ky1KT6bK5untttYKGsZSsxS"
+      "urlPost" : "https://www.abw.by/novosti/autosport/222912"
     },
     {
       "title" : "Дым, солнце и дождь. Как прошел Parimatch Кубок Восточной Европы по дрифтингу",
       "date" : "30 сентября 2021",
+      "source" : "telegraf.by",
       "description" : "26 сентября в Раубичах прошло самое долгожданное событие года в – состоялись главные дрифт-соревнования сезона-2021 –  Кубок Восточной Европы по дрифтингу – EEDC 2021!",
       "urlImg" : "https://i.postimg.cc/JhZJhJYJ/1.png",
-      "urlPost" : "https://docs.google.com/document/d/1aQJJCgtpSO_3Xbg9JQEcY61eV8KNLdIl"
+      "urlPost" : "https://telegraf.by/sport-news/dym-solnce-i-dozhd-kak-proshel-parimatch-kubok-vostochnoj-evropy-po-driftingu/"
     }
   ]
 }
