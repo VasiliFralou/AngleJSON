@@ -1,22 +1,20 @@
 {
   "Events": [
     {
-      "city": "РСТЦ ДОСААФ \"Стайки\", Прилесье",
-      "day": "21 августа 2022 г.",
+      "locationImg": "https://i.postimg.cc/LX4bqv11/stayki.png",
+      "promo": "https://i.postimg.cc/1RcKh8wh/DRIFTZARYA22.jpg",
+      "date": "5 июня 2022 г, 13:00",
       "latitude": 53.8194204,
       "longitude": 27.7465482,
-      "name": "3-ий этап Чемпионата РБ по дрифтингу",
-      "title": "#ZaryaFinal22",
-      "location": "https://i.postimg.cc/LX4bqv11/stayki.png"
-    },
-    {
-      "city": "ГСОК Логойск, Логойск",
-      "day": "17 июля 2022 г., 13:00",
-      "latitude": 54.1816601,
-      "longitude": 27.8076025,
-      "name": "2-ой этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftLogoisk22 - Победитель: Роман Кондратенко",
-      "location": "https://i.postimg.cc/2ywd4tr8/DRIFTLOGOISK22.jpg"
+      "eventScheme": "https://i.postimg.cc/K8FZXfYw/05-06-22.jpg",
+      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/drift-zarya-i-etap-parimatch-chempionata-belarusi-po-driftingu-05-iyunya-2022/",
+      "listPilots": [
+        "911 КОНДРАТЕНКО Роман (Беларусь, Минск) - Nissan S13 2JZ 3.0 710 л.с.",
+        "777 ШЕНДЕРОВ Антон (Беларусь, Минск) - Nissan S13 2JZ-GE 3,0 500 л.с.",
+        "131 МЕЛЕНКЕВИЧ Борис (Беларусь, Брест) - BMW E36 M60b40 430 л.с."],
+      "judgesTask": "https://i.postimg.cc/pd2mPxsf/05-06-22.jpg",
+      "results": "https://i.postimg.cc/MKhS08Ny/05-06-22-2.jpg",
+      "gride": "https://i.postimg.cc/BnHGMVfR/05-06-22-1.jpg"
     }
   ]
 }
