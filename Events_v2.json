@@ -11,6 +11,26 @@
       "longitude": 27.7465482
     },
     {
+      "locationImg": "https://i.postimg.cc/GmYN64RH/pinsk.png",
+      "promo": "https://i.postimg.cc/GmYN64RH/pinsk.png",
+      "date": "4 сентября 2022",
+      "location": "Cтадион ДОСААФ, Пинск",
+      "name": "4-ый этап Чемпионата РБ по дрифтингу",
+      "title": "#DriftPinsk22",
+      "latitude": 52.1311409,
+      "longitude": 26.1112127
+    },
+    {
+      "locationImg": "https://i.postimg.cc/JhLg8R7K/raubichi.png",
+      "promo": "https://i.postimg.cc/JhLg8R7K/raubichi.png",
+      "date": "25 сентября 2022",
+      "location": "РЦОП Раубичи, Раубичи",
+      "name": "EEDC – Eastern European Drift Cup",
+      "title": "#EEDC22",
+      "latitude": 54.059066,
+      "longitude": 27.7324008
+    },
+    {
       "locationImg": "https://i.postimg.cc/LX4bqv11/stayki.png",
       "promo": "https://i.postimg.cc/1RcKh8wh/DRIFTZARYA22.jpg",
       "date": "5 июня 2022, 13:00",
