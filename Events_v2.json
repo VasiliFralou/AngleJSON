@@ -2,14 +2,15 @@
   "Events": [
     {
       "locationImg": "https://i.postimg.cc/LX4bqv11/stayki.png",
-      "promo": "https://i.postimg.cc/LX4bqv11/stayki.png",
-      "date": "21 августа 2022",
+      "promo": "https://i.postimg.cc/CKFqm3vy/DRIFTSTAYKI.jpg",
+      "date": "21 августа 2022, 13:00",
       "location": "РСТЦ ДОСААФ \"Стайки\", Прилесье",
       "name": "3-ий этап Чемпионата РБ по дрифтингу",
       "title": "#DriftStayki",
       "latitude": 53.8194204,
       "longitude": 27.7465482,
-      "eventScheme": "https://i.postimg.cc/XYZh82K2/21-08-22.jpg"
+      "eventScheme": "https://i.postimg.cc/XYZh82K2/21-08-22.jpg",
+      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/driftstayki-iii-etap-betera-chempionata-belarusi-po-driftingu-21-avgusta-2022/"
     },
     {
       "locationImg": "https://i.postimg.cc/GmYN64RH/pinsk.png",
