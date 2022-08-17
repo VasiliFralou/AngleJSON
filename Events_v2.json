@@ -15,12 +15,13 @@
     {
       "locationImg": "https://i.postimg.cc/GmYN64RH/pinsk.png",
       "promo": "https://i.postimg.cc/CMcKPTwM/DRIFTPINSK.jpg",
-      "date": "4 сентября 2022",
+      "date": "4 сентября 2022, 13:00",
       "location": "Cтадион ДОСААФ, Пинск",
       "name": "4-ый этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftPinsk22",
+      "title": "#DriftPinsk",
       "latitude": 52.1311409,
-      "longitude": 26.1112127
+      "longitude": 26.1112127,
+      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/driftpinsk-iv-etap-betera-chempionata-belarusi-po-driftingu-04-sentyabrya-2022/"
     },
     {
       "locationImg": "https://i.postimg.cc/JhLg8R7K/raubichi.png",
