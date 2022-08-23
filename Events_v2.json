@@ -1,29 +1,6 @@
 {
   "Events": [
     {
-      "locationImg": "https://i.postimg.cc/LX4bqv11/stayki.png",
-      "promo": "https://i.postimg.cc/CKFqm3vy/DRIFTSTAYKI.jpg",
-      "date": "21 августа 2022, 13:00",
-      "location": "РСТЦ ДОСААФ \"Стайки\", Прилесье",
-      "name": "3-ий этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftStayki",
-      "latitude": 53.8194204,
-      "longitude": 27.7465482,
-      "eventScheme": "https://i.postimg.cc/QjmcNr9H/21-08-22.jpg",
-      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/driftstayki-iii-etap-betera-chempionata-belarusi-po-driftingu-21-avgusta-2022/",
-      "listPilots": [ 
-        "17 КАПШАЙ Павел (Беларусь, Минск) \nАвто: BMW E30, 2JZ, 3.0, 450 л.с.",
-        "19 ШУБАДЕРОВ Владислав (Беларусь, Минск) \nАвто: Nissan Silvia S15, 2JZ, 3.0, 700 л.с.",
-        "44 МАНЧУКЕВИЧ Алексей (Беларусь, Минск) \nАвто: Nissan 200SX S14, SR30GTE, 2.0, 560 л.с.",
-        "50 ЕРЁМИН Владимир (Беларусь, Минск) \nАвто: BMW 320 E46, 1JZ, 500 л.с.",
-        "86 МИЛИНЧУК Евгений (Беларусь, Минск) \nАвто: Toyota Celica, M50B28, 2.8, 520 л.с.",
-        "88 КЛИЩЕВСКИЙ Денис (Беларусь, Пинск) \nАвто: Nissan 200SX S13 2JZ, 3.0, 650 л.с.",
-        "777 ШЕНДЕРОВ Антон (Беларусь, Минск) \nАвто: Nissan S13 2JZ-GE, 3.0, 500 л.с.",
-        "911 КОНДРАТЕНКО Роман (Беларусь, Минск) \nАвто: Nissan S13 2JZ, 3.0, 710 л.с."],
-      "qualification": "https://i.postimg.cc/hjLB0Q67/21-08-22.jpg",
-      "grid": "https://i.postimg.cc/QtQqxjK3/21-08-22-1.jpg"
-    },
-    {
       "locationImg": "https://i.postimg.cc/GmYN64RH/pinsk.png",
       "promo": "https://i.postimg.cc/CMcKPTwM/DRIFTPINSK.jpg",
       "date": "4 сентября 2022, 13:00",
@@ -101,6 +78,30 @@
       "qualification": "https://i.postimg.cc/PqLSZPDQ/16-07-22.jpg",
       "results": "https://i.postimg.cc/Rhyxkjs3/17-07-22-1.png",
       "grid": "https://i.postimg.cc/J728Hkr1/17-07-22-2.png"
+    },
+    {
+      "locationImg": "https://i.postimg.cc/LX4bqv11/stayki.png",
+      "promo": "https://i.postimg.cc/CKFqm3vy/DRIFTSTAYKI.jpg",
+      "date": "21 августа 2022, 13:00",
+      "location": "РСТЦ ДОСААФ \"Стайки\", Прилесье",
+      "name": "3-ий этап Чемпионата РБ по дрифтингу",
+      "title": "#DriftStayki",
+      "latitude": 53.8194204,
+      "longitude": 27.7465482,
+      "eventScheme": "https://i.postimg.cc/QjmcNr9H/21-08-22.jpg",
+      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/driftstayki-iii-etap-betera-chempionata-belarusi-po-driftingu-21-avgusta-2022/",
+      "listPilots": [ 
+        "17 КАПШАЙ Павел (Беларусь, Минск) \nАвто: BMW E30, 2JZ, 3.0, 450 л.с.",
+        "19 ШУБАДЕРОВ Владислав (Беларусь, Минск) \nАвто: Nissan Silvia S15, 2JZ, 3.0, 700 л.с.",
+        "44 МАНЧУКЕВИЧ Алексей (Беларусь, Минск) \nАвто: Nissan 200SX S14, SR30GTE, 2.0, 560 л.с.",
+        "50 ЕРЁМИН Владимир (Беларусь, Минск) \nАвто: BMW 320 E46, 1JZ, 500 л.с.",
+        "86 МИЛИНЧУК Евгений (Беларусь, Минск) \nАвто: Toyota Celica, M50B28, 2.8, 520 л.с.",
+        "88 КЛИЩЕВСКИЙ Денис (Беларусь, Пинск) \nАвто: Nissan 200SX S13 2JZ, 3.0, 650 л.с.",
+        "777 ШЕНДЕРОВ Антон (Беларусь, Минск) \nАвто: Nissan S13 2JZ-GE, 3.0, 500 л.с.",
+        "911 КОНДРАТЕНКО Роман (Беларусь, Минск) \nАвто: Nissan S13 2JZ, 3.0, 710 л.с."],
+      "qualification": "https://i.postimg.cc/hjLB0Q67/21-08-22.jpg",
+      "results": "https://i.postimg.cc/KYzsbzMZ/21-08-22-0.jpg",
+      "grid": "https://i.postimg.cc/Jz7p3nKb/21-08-22-1.jpg"
     }
   ]
 }
