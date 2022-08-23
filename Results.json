@@ -6,7 +6,9 @@
       "pointsRnd1": 100,
       "pointsQual2": 10,
       "pointsRnd2": 100,
-      "pointResult": 215
+      "pointsQual3": 10,
+      "pointsRnd3": 48,
+      "pointResult": 273
     },
     {
       "name": "Клищевский Денис",
@@ -14,7 +16,9 @@
       "pointsRnd1": 32,
       "pointsQual2": 5,
       "pointsRnd2": 90,
-      "pointResult": 137
+      "pointsQual3": 8,
+      "pointsRnd3": 78,
+      "pointResult": 223
     },
     {
       "name": "Манчукевич Алексей",
@@ -22,7 +26,9 @@
       "pointsRnd1": 16,
       "pointsQual2": 3,
       "pointsRnd2": 65,
-      "pointResult": 87
+      "pointsQual3": 4,
+      "pointsRnd3": 32,
+      "pointResult": 123
     },
     {
       "name": "Литвин Николай",
@@ -38,7 +44,9 @@
       "pointsRnd1": 48,
       "pointsQual2": 6,
       "pointsRnd2": 32,
-      "pointResult": 94
+      "pointsQual3": 6,
+      "pointsRnd3": 100,
+      "pointResult": 200
     },
     {
       "name": "Шендеров Антон",
@@ -46,7 +54,9 @@
       "pointsRnd1": 78,
       "pointsQual2": 4,
       "pointsRnd2": 78,
-      "pointResult": 164
+      "pointsQual3": 5,
+      "pointsRnd3": 90,
+      "pointResult": 259
     },
     {
       "name": "Силивончик Виталий",
@@ -62,7 +72,9 @@
       "pointsRnd1": 65,
       "pointsQual2": 4,
       "pointsRnd2": 16,
-      "pointResult": 89
+      "pointsQual3": 4,
+      "pointsRnd3": 32,
+      "pointResult": 125
     },
     {
       "name": "Меленкевич Борис",
@@ -76,7 +88,9 @@
       "pointsRnd1": 90,
       "pointsQual2": 3,
       "pointsRnd2": 16,
-      "pointResult": 113
+      "pointsQual3": 4,
+      "pointsRnd3": 48,
+      "pointResult": 165
     },
     {
       "name": "Гроковенко Николай",
@@ -90,7 +104,9 @@
       "pointsRnd1": 16,
       "pointsQual2": 4,
       "pointsRnd2": 32,
-      "pointResult": 55
+      "pointsQual3": 4,
+      "pointsRnd3": 65,
+      "pointResult": 124
     },
     {
       "name": "Карелин Алексей",
@@ -109,6 +125,13 @@
       "pointsQual2": 0,
       "pointsRnd2": 0,
       "pointResult": 0
+    }
+    ,
+    {
+      "name": "Пшеницын Александр",
+      "pointsQual3": 3,
+      "pointsRnd3": 16,
+      "pointResult": 19
     }
  ]
 }
