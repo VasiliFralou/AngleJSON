@@ -8,7 +8,9 @@
       "pointsRnd2": 100,
       "pointsQual3": 10,
       "pointsRnd3": 48,
-      "pointResult": 273
+      "pointsQual4": 10,
+      "pointsRnd4": 100,
+      "pointResult": 383
     },
     {
       "name": "Клищевский Денис",
@@ -18,7 +20,9 @@
       "pointsRnd2": 90,
       "pointsQual3": 8,
       "pointsRnd3": 78,
-      "pointResult": 223
+      "pointsQual4": 8,
+      "pointsRnd4": 90,
+      "pointResult": 321
     },
     {
       "name": "Манчукевич Алексей",
@@ -46,7 +50,9 @@
       "pointsRnd2": 32,
       "pointsQual3": 6,
       "pointsRnd3": 100,
-      "pointResult": 200
+      "pointsQual4": 5,
+      "pointsRnd4": 48,
+      "pointResult": 253
     },
     {
       "name": "Шендеров Антон",
@@ -56,7 +62,9 @@
       "pointsRnd2": 78,
       "pointsQual3": 5,
       "pointsRnd3": 90,
-      "pointResult": 259
+      "pointsQual4": 6,
+      "pointsRnd4": 48,
+      "pointResult": 313
     },
     {
       "name": "Силивончик Виталий",
@@ -64,7 +72,9 @@
       "pointsRnd1": 32,
       "pointsQual2": 3,
       "pointsRnd2": 16,
-      "pointResult": 57
+      "pointsQual4": 4,
+      "pointsRnd4": 78,
+      "pointResult": 139
     },
     {
       "name": "Ерёмин Владимир",
@@ -74,7 +84,9 @@
       "pointsRnd2": 16,
       "pointsQual3": 4,
       "pointsRnd3": 32,
-      "pointResult": 125
+      "pointsQual4": 4,
+      "pointsRnd4": 32,
+      "pointResult": 161
     },
     {
       "name": "Меленкевич Борис",
@@ -106,7 +118,9 @@
       "pointsRnd2": 32,
       "pointsQual3": 4,
       "pointsRnd3": 65,
-      "pointResult": 124
+      "pointsQual4": 4,
+      "pointsRnd4": 65,
+      "pointResult": 193
     },
     {
       "name": "Карелин Алексей",
@@ -131,7 +145,9 @@
       "name": "Пшеницын Александр",
       "pointsQual3": 3,
       "pointsRnd3": 16,
-      "pointResult": 19
+      "pointsQual4": 4,
+      "pointsRnd4": 32,
+      "pointResult": 55
     }
  ]
 }
