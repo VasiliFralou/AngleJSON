@@ -1,39 +1,16 @@
 {
   "Events": [
     {
-      "locationImg": "https://i.postimg.cc/GmYN64RH/pinsk.png",
-      "promo": "https://i.postimg.cc/CMcKPTwM/DRIFTPINSK.jpg",
-      "date": "4 сентября 2022, 13:00",
-      "location": "Cтадион ДОСААФ, Пинск",
-      "name": "4-ый этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftPinsk",
-      "latitude": 52.1311409,
-      "longitude": 26.1112127,
-      "eventScheme": "https://i.postimg.cc/J0wW17dd/04-09-22.jpg",
-      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/driftpinsk-iv-etap-betera-chempionata-belarusi-po-driftingu-04-sentyabrya-2022/",
-      "listPilots": [ 
-        "13 ЕРЁМИН Владимир (Беларусь, Минск) \nАвто: Nissan Silvia 80, 1JZ, 550 л.с.",
-        "17 КАПШАЙ Павел (Беларусь, Минск) \nАвто: BMW E30, 2JZ, 3.0, 450 л.с.",
-        "19 ШУБАДЕРОВ Владислав (Беларусь, Минск) \nАвто: Nissan Silvia S15, 2JZ, 3.0, 700 л.с.",
-        "27 ПШЕНИЦЫН Александр (Беларусь, Минск) \nАвто: Ford Taunus, LSA, 6.2, 210 л.с.",
-        "57 СИЛИВОНЧИК Виталий (Беларусь, Минск) \nАвто: Nissan 200SX 2JZ, 3.0, 680 л.с.",
-        "88 КЛИЩЕВСКИЙ Денис (Беларусь, Пинск) \nАвто: Nissan 200SX S13 2JZ, 3.0, 650 л.с.",
-        "777 ШЕНДЕРОВ Антон (Беларусь, Минск) \nАвто: Nissan S13 2JZ-GE, 3.0, 500 л.с.",
-        "911 КОНДРАТЕНКО Роман (Беларусь, Минск) \nАвто: Nissan S13 2JZ, 3.0, 710 л.с."],
-        "judgesTask": "https://i.postimg.cc/k5Qrvt6m/04-09-22.jpg",
-        "qualification": "https://i.postimg.cc/fTQNTXLN/04-09-22.jpg",
-        "results": "https://i.postimg.cc/c4XPRFYM/04-09-22-1.jpg",
-        "grid": "https://i.postimg.cc/c4n8YbPP/IMG-20220904-173724-597.jpg"
-    },
-    {
       "locationImg": "https://i.postimg.cc/JhLg8R7K/raubichi.png",
-      "promo": "https://i.postimg.cc/JhLg8R7K/raubichi.png",
+      "promo": "https://i.postimg.cc/zXjvKTYN/DRIFTRAUBICHI22.jpg",
       "date": "2 октября 2022",
       "location": "РЦОП Раубичи, Раубичи",
       "name": "5-ый этап Чемпионата РБ по дрифтингу",
       "title": "#DriftRaubichi",
       "latitude": 54.059066,
-      "longitude": 27.7324008
+      "longitude": 27.7324008,
+      "eventScheme": "https://i.postimg.cc/p21vwqJ4/02-10-22.jpg",
+      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/final-betera-chempionata-belarusi-po-driftingu-02-oktyabrya-2022/"
     },
     {
       "locationImg": "https://i.postimg.cc/LX4bqv11/stayki.png",
@@ -116,6 +93,31 @@
       "qualification": "https://i.postimg.cc/hjLB0Q67/21-08-22.jpg",
       "results": "https://i.postimg.cc/KYzsbzMZ/21-08-22-0.jpg",
       "grid": "https://i.postimg.cc/Jz7p3nKb/21-08-22-1.jpg"
+    },
+    {
+      "locationImg": "https://i.postimg.cc/GmYN64RH/pinsk.png",
+      "promo": "https://i.postimg.cc/CMcKPTwM/DRIFTPINSK.jpg",
+      "date": "4 сентября 2022, 13:00",
+      "location": "Cтадион ДОСААФ, Пинск",
+      "name": "4-ый этап Чемпионата РБ по дрифтингу",
+      "title": "#DriftPinsk",
+      "latitude": 52.1311409,
+      "longitude": 26.1112127,
+      "eventScheme": "https://i.postimg.cc/J0wW17dd/04-09-22.jpg",
+      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/driftpinsk-iv-etap-betera-chempionata-belarusi-po-driftingu-04-sentyabrya-2022/",
+      "listPilots": [ 
+        "13 ЕРЁМИН Владимир (Беларусь, Минск) \nАвто: Nissan Silvia 80, 1JZ, 550 л.с.",
+        "17 КАПШАЙ Павел (Беларусь, Минск) \nАвто: BMW E30, 2JZ, 3.0, 450 л.с.",
+        "19 ШУБАДЕРОВ Владислав (Беларусь, Минск) \nАвто: Nissan Silvia S15, 2JZ, 3.0, 700 л.с.",
+        "27 ПШЕНИЦЫН Александр (Беларусь, Минск) \nАвто: Ford Taunus, LSA, 6.2, 210 л.с.",
+        "57 СИЛИВОНЧИК Виталий (Беларусь, Минск) \nАвто: Nissan 200SX 2JZ, 3.0, 680 л.с.",
+        "88 КЛИЩЕВСКИЙ Денис (Беларусь, Пинск) \nАвто: Nissan 200SX S13 2JZ, 3.0, 650 л.с.",
+        "777 ШЕНДЕРОВ Антон (Беларусь, Минск) \nАвто: Nissan S13 2JZ-GE, 3.0, 500 л.с.",
+        "911 КОНДРАТЕНКО Роман (Беларусь, Минск) \nАвто: Nissan S13 2JZ, 3.0, 710 л.с."],
+        "judgesTask": "https://i.postimg.cc/k5Qrvt6m/04-09-22.jpg",
+        "qualification": "https://i.postimg.cc/fTQNTXLN/04-09-22.jpg",
+        "results": "https://i.postimg.cc/c4XPRFYM/04-09-22-1.jpg",
+        "grid": "https://i.postimg.cc/c4n8YbPP/IMG-20220904-173724-597.jpg"
     }
   ]
 }
