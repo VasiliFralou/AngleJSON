@@ -2,6 +2,14 @@
   
   "News": [
     {
+      "title" : "18 сентября – ночной дрифт в Стайках!",
+      "date" : "13 сентября 2022",
+      "source" : "abw.by",
+      "description" : "В ближайшее воскресенье на автодроме \"Заря\" пройдет фестиваль дрифта JP DAY в рамках соревнований Кубка SLUTSKDRIFT2022.",
+      "urlImg" : "https://i.postimg.cc/13YCGnm4/13-09-22.jpg",
+      "urlPost" : "https://www.abw.by/novosti/autosport/228094"
+    },
+    {
       "title" : "Мало не значит скучно! Дрифтеры \"раздавали\" в Пинске",
       "date" : "5 сентября 2022",
       "source" : "abw.by",
