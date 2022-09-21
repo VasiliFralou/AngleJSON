@@ -1,4 +1,11 @@
 {
+  
+{
+      "title": "",
+      "tag": "",   
+      "image": ""
+    },
+  
   "Media": [
     {
       "title": "Drift Pinsk - ТОП-8 финальные парные заезды IV этап Betera Чемпионата Беларуси по дрифтингу 2022",
@@ -9,13 +16,28 @@
       "image": "https://i.postimg.cc/mg6thM3C/08-09-22.png"
     },
     {
+      "title": "Фёдор Дзежиц, Логойск (2022)",
+      "tag": "Логойск , Фёдор Дзежиц , 2022 , Toyota Mark2 JZX90",   
+      "image": "https://sun9-19.userapi.com/impf/SKoIFgBCUAG4Kol3YKMyFkctrmrkLg0eEcNYug/J415c-LWq08.jpg?size=2560x1707&quality=95&sign=1d64318d158a135a574133b4ef1260ab&type=album"
+    },
+    {
+      "title": "Михаил Пак и Антон Шендеров, Логойск (2022)",
+      "tag": "Логойск , Антон Шендеров , Михаил Пак , 2022, Nissan 350Z , Nissan Silvia S15",   
+      "image": "https://sun9-26.userapi.com/impf/C8VX76jLZ2koDo70MY4OqSa12fSG1xPrm6Ei7Q/C42tfBs2C4U.jpg?size=2560x1707&quality=95&sign=abeb24307d7a53ed6558f845afd501f5&type=album"
+    },
+    {
+      "title": "Роман Кондратенко и Алексей Карелин, Логойск (2022)",
+      "tag": "Логойск , Роман Кондратенко , Алексей Карелин , 2022, Toyota Altezza , BMW M2",   
+      "image": "https://sun9-71.userapi.com/impf/1zhrhAJ4_STGXQSvPuh5ne86YBOqrHm7rWTIeQ/4cPC8DCH-gA.jpg?size=2560x1707&quality=95&sign=7f334bd13736c5cd4dc1ab54d87c2b1d&type=album"
+    },
+    {
       "title": "Алексей Манчукевич, Логойск (2022)",
-      "tag": "Логойск, Алексей, Манчукевич, 2022, Nissan",   
+      "tag": "Логойск , Алексей Манчукевич , 2022 , Nissan 200SX S14",   
       "image": "https://sun9-15.userapi.com/impf/q7v5d8X2VrVQKNJK0IyhFaJlQs4JiJJmQqxt4Q/BJZqZgg3rj4.jpg?size=2560x1707&quality=95&sign=7d9c87ab7b49ac7335aaf40be7d871a9&type=album"
     },
     {
       "title": "Логойск (2022)",
-      "tag": "Логойск, 2022",   
+      "tag": "Логойск , 2022",   
       "image": "https://sun2.mts-by-minsk.userapi.com/impf/_7FRjuPN36kiksZgIIg5LrZXibLSwxFQ-8WGdg/MbfOu-ItnUs.jpg?size=2560x1707&quality=95&sign=d3d123f90258689ed796ed313b40f652&type=album"
     }
   ]
