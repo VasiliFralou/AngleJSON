@@ -1,6 +1,17 @@
 {
   "Events": [
-    
+    {
+      "locationImg": "https://i.postimg.cc/JhLg8R7K/raubichi.png",
+      "promo": "https://i.postimg.cc/zXjvKTYN/DRIFTRAUBICHI22.jpg",
+      "date": "2 октября 2022",
+      "location": "РЦОП Раубичи, Раубичи",
+      "name": "5-ый этап Чемпионата РБ по дрифтингу",
+      "title": "#DriftRaubichi",
+      "latitude": 54.059066,
+      "longitude": 27.7324008,
+      "eventScheme": "https://i.postimg.cc/p21vwqJ4/02-10-22.jpg",
+      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/final-betera-chempionata-belarusi-po-driftingu-02-oktyabrya-2022/"
+    },
     {
       "locationImg": "https://i.postimg.cc/LX4bqv11/stayki.png",
       "promo": "https://i.postimg.cc/1RcKh8wh/DRIFTZARYA22.jpg",
