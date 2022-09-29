@@ -10,7 +10,17 @@
       "latitude": 54.059066,
       "longitude": 27.7324008,
       "eventScheme": "https://i.postimg.cc/p21vwqJ4/02-10-22.jpg",
-      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/final-betera-chempionata-belarusi-po-driftingu-02-oktyabrya-2022/"
+      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/final-betera-chempionata-belarusi-po-driftingu-02-oktyabrya-2022/",
+      "listPilots": [ 
+        "13 ЕРЁМИН Владимир (Беларусь, Минск) \nАвто: Nissan Silvia 80, 1JZ, 550 л.с.",
+        "17 КАПШАЙ Павел (Беларусь, Минск) \nАвто: BMW E30, 2JZ, 3.0, 450 л.с.",
+        "19 ШУБАДЕРОВ Владислав (Беларусь, Минск) \nАвто: Nissan Silvia S15, 2JZ, 3.0, 700 л.с.",
+        "44 МАНЧУКЕВИЧ Алексей (Беларусь, Минск) \nАвто: Nissan 200SX S14, SR30GTE, 2.0, 560 л.с.",
+        "57 СИЛИВОНЧИК Виталий (Беларусь, Минск) \nАвто: Nissan 200SX 2JZ, 3.0, 680 л.с.",
+        "86 МИЛИНЧУК Евгений (Беларусь, Минск) \nАвто: Toyota Celica, M50B28, 2.8, 520 л.с.",
+        "88 КЛИЩЕВСКИЙ Денис (Беларусь, Пинск) \nАвто: Nissan 200SX S13 2JZ, 3.0, 650 л.с.",
+        "777 ШЕНДЕРОВ Антон (Беларусь, Минск) \nАвто: Nissan S13 2JZ-GE, 3.0, 500 л.с.",
+        "911 КОНДРАТЕНКО Роман (Беларусь, Минск) \nАвто: BMW M2 Competition, 2JZ, 3.0, 600 л.с."]
     },
     {
       "locationImg": "https://i.postimg.cc/LX4bqv11/stayki.png",
