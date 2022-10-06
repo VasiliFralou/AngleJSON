@@ -1,6 +1,10 @@
 {
   "Results": [
     {
+      
+"pointsQual5": ,
+      "pointsRnd5": ,
+      
       "name": "Кондратенко Роман",
       "pointsQual1": 5,
       "pointsRnd1": 100,
@@ -10,7 +14,9 @@
       "pointsRnd3": 48,
       "pointsQual4": 10,
       "pointsRnd4": 100,
-      "pointResult": 383
+      "pointsQual5": 6,
+      "pointsRnd5": 100,
+      "pointResult": 489
     },
     {
       "name": "Клищевский Денис",
@@ -22,7 +28,9 @@
       "pointsRnd3": 78,
       "pointsQual4": 8,
       "pointsRnd4": 90,
-      "pointResult": 321
+      "pointsQual5": 5,
+      "pointsRnd5": 90,
+      "pointResult": 416
     },
     {
       "name": "Манчукевич Алексей",
@@ -32,7 +40,9 @@
       "pointsRnd2": 65,
       "pointsQual3": 4,
       "pointsRnd3": 32,
-      "pointResult": 123
+      "pointsQual5": 3,
+      "pointsRnd5": 32,
+      "pointResult": 158
     },
     {
       "name": "Литвин Николай",
@@ -52,7 +62,9 @@
       "pointsRnd3": 100,
       "pointsQual4": 5,
       "pointsRnd4": 48,
-      "pointResult": 253
+      "pointsQual5": 8,
+      "pointsRnd5": 78,
+      "pointResult": 339
     },
     {
       "name": "Шендеров Антон",
@@ -64,7 +76,9 @@
       "pointsRnd3": 90,
       "pointsQual4": 6,
       "pointsRnd4": 48,
-      "pointResult": 313
+      "pointsQual5": 10,
+      "pointsRnd5": 48,
+      "pointResult": 371
     },
     {
       "name": "Силивончик Виталий",
@@ -86,7 +100,9 @@
       "pointsRnd3": 32,
       "pointsQual4": 4,
       "pointsRnd4": 32,
-      "pointResult": 161
+      "pointsQual5": 4,
+      "pointsRnd5": 32,
+      "pointResult": 197
     },
     {
       "name": "Меленкевич Борис",
@@ -102,7 +118,9 @@
       "pointsRnd2": 16,
       "pointsQual3": 4,
       "pointsRnd3": 48,
-      "pointResult": 165
+      "pointsQual5": 4,
+      "pointsRnd5": 65,
+      "pointResult": 234
     },
     {
       "name": "Гроковенко Николай",
@@ -120,7 +138,9 @@
       "pointsRnd3": 65,
       "pointsQual4": 4,
       "pointsRnd4": 65,
-      "pointResult": 193
+      "pointsQual5": 4,
+      "pointsRnd5": 16,
+      "pointResult": 213
     },
     {
       "name": "Карелин Алексей",
@@ -147,6 +167,18 @@
       "pointsQual4": 4,
       "pointsRnd4": 32,
       "pointResult": 55
+    },
+    {
+      "name": "Вишневский Алексей",
+      "pointsQual5": 4,
+      "pointsRnd5": 48,
+      "pointResult": 52
+    },
+    {
+      "name": "Поздняков Антон",
+      "pointsQual5": 0,
+      "pointsRnd5": 0,
+      "pointResult": 0
     }
  ]
 }
