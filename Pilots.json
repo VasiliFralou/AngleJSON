@@ -7,10 +7,30 @@
       "birthday": "21 мая 1983 г.",
       "team": "Black Star PENGUIN",
       "instagram": "dikijdrifter",
-      "description": "Действующий чемпион Беларуси по дрифтингу, двукратный чемпион Беларуси по дрифтингу (2021 и 2022 года), принимал участие в Russian Drift Series GP.",
+      "description": "Действующий чемпион Беларуси по дрифтингу, двукратный чемпион Беларуси по дрифтингу (2021 и 2022 года), победитель 2 этапа FIA NEZ DRIFT CHAMPIONSHIP 2021 года, обладатель кубка EEDC 2021 года, принимал участие в Russian Drift Series GP.",
       "auto": "BMW M2 Competition, 2JZ, 3.0, 600 л.с.",
       "photo": "https://i.postimg.cc/k53vx79y/Roman-Kondratenko.png",
-      "photoAuto": "https://i.postimg.cc/ty752ktR/Roman-Kondratenko.jpg"
+      "photoAuto": "https://i.postimg.cc/ty752ktR/Roman-Kondratenko.jpg",
+      "achievement": [
+         "Чемпион Республики Беларуси по дрифтингу 2022 года",
+         "1-е место - 5 этап чемпионата РБ 2022 г.",
+         "1-е место - 4 этап чемпионата РБ 2022 г.",
+         "Победитель квалификации - 4 этап чемпионата РБ 2022 г.",
+         "Победитель квалификации - 3 этап чемпионата РБ 2022 г.",
+         "1-е место - 2 этап чемпионата РБ 2022 г.",
+         "Победитель квалификации - 2 этап чемпионата РБ 2022 г.",
+         "1-е место - 1 этап чемпионата РБ 2022 г.",
+         "Обладатель кубка - EEDC (Eastern European Drift Cup) 2021 г.",
+         "1-е место - 2 этап FIA NEZ (North European Zone) DRIFT CHAMPIONSHIP 2021 г.",
+         "Чемпион Республики Беларуси по дрифтингу 2021 года",
+         "1-е место - 4 этап чемпионата РБ 2021 г.",
+         "2-е место - 3 этап чемпионата РБ 2021 г.",,
+         "Победитель квалификации - 3 этап чемпионата РБ 2021 г.",
+         "Победитель квалификации - 2 этап чемпионата РБ 2021 г.",
+         "Победитель квалификации - 1 этап чемпионата РБ 2020 г.",
+         "3-е место - Кубок РБ 2019 г. по дрифтингу",
+         "2-е место - 1 этап чемпионата РБ 2019 г."
+      ]
     },
     {
       "name": "Клищевский Денис",
@@ -22,6 +42,14 @@
       "auto": "Nissan 200SX S13 2JZ, 3.0, 650 л.с.",
       "photo": "https://i.postimg.cc/kGpxDmfK/Denis-Klischevski.png",
       "photoAuto": "https://i.postimg.cc/QhLx6Nc1/Denis-Klischevskiy.jpg"
+      "achievement": [
+         "Вице-чемпион Республики Беларусь по дрифту 2022 года",
+         "2-е место - 5 этап чемпионата РБ 2022 г.",
+         "2-е место - 4 этап чемпионата РБ 2022 г.",
+         "3-е место - 3 этап чемпионата РБ 2022 г.",
+         "2-е место - 2 этап чемпионата РБ 2022 г.",
+         "Победитель квалификации - 1 этап чемпионата РБ 2022 г"
+      ]
     },
     {
       "name": "Шендеров Антон",
@@ -31,7 +59,14 @@
       "instagram": "tony_drives",
       "auto": "Nissan S13 2JZ-GE, 3.0, 500 л.с.",
       "photo": "https://i.postimg.cc/NGJ8d6BF/Anton-Shenderov.png",
-      "photoAuto": "https://i.postimg.cc/1y3rTKD3/Anton-Shenderov.jpg"
+      "photoAuto": "https://i.postimg.cc/1y3rTKD3/Anton-Shenderov.jpg",
+      "achievement": [
+         "Бронзовый призёр Республики Беларусь по дрифту 2022 года",
+         "Победитель квалификации - 5 этап чемпионата РБ 2022 г.",
+         "2-е место - 3 этап чемпионата РБ 2022 г.",
+         "3-е место - 2 этап чемпионата РБ 2022 г.",
+         "3-е место - 1 этап чемпионата РБ 2022 г."
+      ]
     },
     {
       "name": "Шубадёров Владислав",
@@ -41,7 +76,11 @@
       "description": "Победитель 3-его этапа чемпионата Беларуси по дрифтингу 2022",
       "auto": "Nissan Silvia S15 2JZ-GTE, 3.0, 700 л.с.",
       "photo": "https://i.postimg.cc/Bb6Tq6cJ/Vladislav-Shuboderov.png",
-      "photoAuto": "https://i.postimg.cc/WpRxsysV/Vladislav-Shubaderov.jpg"
+      "photoAuto": "https://i.postimg.cc/WpRxsysV/Vladislav-Shubaderov.jpg",
+      "achievement": [
+         "3-е место - 5 этап чемпионата РБ 2022 г.",
+         "1-е место - 3 этап чемпионата РБ 2022 г."
+      ]
     },
     {
       "name": "Милинчук Евгений",
@@ -52,7 +91,10 @@
       "description": "Серебряный призёр 1-ого этапа чемпионата Беларуси по дрифту 2022",
       "auto": "Toyota Celica, M50B28, 2.8, 520 л.с.",
       "photo": "https://i.postimg.cc/wj2M5JTf/Evgenii-Milinchuk.png",
-      "photoAuto": "https://i.postimg.cc/bzW6NLGy/Evgenii-Milinchuk.jpg"
+      "photoAuto": "https://i.postimg.cc/bzW6NLGy/Evgenii-Milinchuk.jpg",
+      "achievement": [
+         "2-е место - 1 этап чемпионата РБ 2022 г."
+      ]
     },
     {
       "name": "Капшай Павел",
@@ -91,7 +133,9 @@
       "instagram": "vitalisilivonchyk",
       "auto": "Nissan 200SX 2JZ, 3.0, 680 л.с.",
       "photo": "https://i.postimg.cc/436bPjxR/Vitaliy-Silivonchik.png",
-      "photoAuto": "https://i.postimg.cc/XVXbjtwn/Vitaliy-Silivonchik.jpg"
+      "photoAuto": "https://i.postimg.cc/XVXbjtwn/Vitaliy-Silivonchik.jpg",
+      "achievement": [
+         "3-е место - 4 этап чемпионата РБ 2022 г."
     },
     {
       "name": "Литвин Николай",
@@ -99,10 +143,13 @@
       "birthday": "17 июля 1992 г.",
       "team": "Black Star PENGUIN",
       "instagram": "litvinz",
-      "description": "Николай Литвин хорошо известен в гродненских автомобильных кругах. Он вырос в Скиделе, затем жил в Гродно, а сейчас перебрался в Минск, где ведет IT-бизнес, а также открыл по франшизе автомойку Black Star и уже успешно выступает в дрифте.",
+      "description": "Николай Литвин хорошо известен в гродненских автомобильных кругах. Он вырос в Скиделе, затем жил в Гродно, а сейчас перебрался в Минск, где ведет IT-бизнес, а также открыл по франшизе автомойку Black Star и уже успешно выступает в дрифте. Вице-чемпион РБ по дрифту 2021 года. В 2022 года на 5-ый этап чемпионата РБ по дрифтингу, предоставил свой автомобиль двукратному чемпиону Беларуси по дрифту (2014 и 2015 года) - Алексею Вишневскому.",
       "auto": "Nissan 200SX S14, LS3 Supercharger, 6.2, 650 л.с.",
       "photo": "https://i.postimg.cc/Y98NKgFX/Nikolay-Litvin.png",
-      "photoAuto": "https://i.postimg.cc/MqZv76Ch/Nikolay-Litvin.jpg"
+      "photoAuto": "https://i.postimg.cc/MqZv76Ch/Nikolay-Litvin.jpg",
+      "achievement": [
+         "Вице-чемпион Республики Беларусь по дрифту 2021 года",
+      ]
     },
     {
       "name": "Меленкевич Борис",
@@ -120,7 +167,7 @@
       "birthday": "14 января 1981 г.",
       "team": "G-Drive",
       "instagram": "sergei_sak",
-      "description": "Белорусский автогонщик, неоднократный призер различных видов соревнований, как в Беларуси, так и за ее пределами. Двукратный чемпион Беларуси по дрифту (2016 и 2017 год), вице-чемпион 2014 года чемпионата РБ по дрифту, победитель EEDC 2016, серебряный призёр 2-ого этапа RDS 2014, бронзовый призёр чемпионата РБ по дрифту 2015 и 2021 года",
+      "description": "Белорусский автогонщик, неоднократный призер различных видов соревнований, как в Беларуси, так и за ее пределами. Двукратный чемпион Беларуси по дрифту (2016 и 2017 года), вице-чемпион 2014 года чемпионата РБ по дрифту, победитель EEDC 2016, серебряный призёр 2-ого этапа RDS 2014, бронзовый призёр чемпионата РБ по дрифту 2015 и 2021 года.",
       "auto": "Nissan 350Z, 5.6, 420 л.с.",
       "photo": "https://i.postimg.cc/zfx5cjrF/Sergei-Sak.png",
       "photoAuto": "https://i.postimg.cc/gGgpPGLM/Sergei-Sak.jpg"
