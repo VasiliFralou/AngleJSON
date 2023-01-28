@@ -2,6 +2,14 @@
   
   "News": [
     {
+      "title" : "Календарь Чемпионата Беларуси по дрифтингу 2023",
+      "date" : "25 января 2023",
+      "source" : "drift.by",
+      "description" : "I Пинск 23 апреля, II Раубичи 28 мая, III Стайки 25 июня, IV Логойск 30 июля, V Стайки 10 сентября",
+      "urlImg" : "https://drift.by/wp-content/uploads/2023/01/calendar2023-800-768x981.jpg",
+      "urlPost" : "https://drift.by/kalendar-chempionata-belarusi-po-driftingu-2023/"
+    },  
+    {
       "title" : "Дрифт в Раубичах",
       "date" : "12 октября 2022",
       "source" : "shinnik.by",
