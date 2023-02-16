@@ -1,0 +1,180 @@
+{
+  "Results": [
+    {
+      "name": "Кондратенко Роман",
+      "pointsQual1": 5,
+      "pointsRnd1": 100,
+      "pointsQual2": 10,
+      "pointsRnd2": 100,
+      "pointsQual3": 10,
+      "pointsRnd3": 48,
+      "pointsQual4": 10,
+      "pointsRnd4": 100,
+      "pointsQual5": 6,
+      "pointsRnd5": 100,
+      "pointResult": 489
+    },
+    {
+      "name": "Клищевский Денис",
+      "pointsQual1": 10,
+      "pointsRnd1": 32,
+      "pointsQual2": 5,
+      "pointsRnd2": 90,
+      "pointsQual3": 8,
+      "pointsRnd3": 78,
+      "pointsQual4": 8,
+      "pointsRnd4": 90,
+      "pointsQual5": 5,
+      "pointsRnd5": 90,
+      "pointResult": 416
+    },
+    {
+      "name": "Манчукевич Алексей",
+      "pointsQual1": 3,
+      "pointsRnd1": 16,
+      "pointsQual2": 3,
+      "pointsRnd2": 65,
+      "pointsQual3": 4,
+      "pointsRnd3": 32,
+      "pointsQual5": 3,
+      "pointsRnd5": 32,
+      "pointResult": 158
+    },
+    {
+      "name": "Литвин Николай",
+      "pointsQual1": 3,
+      "pointsRnd1": 16,
+      "pointsQual2": 8,
+      "pointsRnd2": 48,
+      "pointResult": 75
+    },
+    {
+      "name": "Шубадёров Владислав",
+      "pointsQual1": 8,
+      "pointsRnd1": 48,
+      "pointsQual2": 6,
+      "pointsRnd2": 32,
+      "pointsQual3": 6,
+      "pointsRnd3": 100,
+      "pointsQual4": 5,
+      "pointsRnd4": 48,
+      "pointsQual5": 8,
+      "pointsRnd5": 78,
+      "pointResult": 339
+    },
+    {
+      "name": "Шендеров Антон",
+      "pointsQual1": 4,
+      "pointsRnd1": 78,
+      "pointsQual2": 4,
+      "pointsRnd2": 78,
+      "pointsQual3": 5,
+      "pointsRnd3": 90,
+      "pointsQual4": 6,
+      "pointsRnd4": 48,
+      "pointsQual5": 10,
+      "pointsRnd5": 48,
+      "pointResult": 371
+    },
+    {
+      "name": "Силивончик Виталий",
+      "pointsQual1": 6,
+      "pointsRnd1": 32,
+      "pointsQual2": 3,
+      "pointsRnd2": 16,
+      "pointsQual4": 4,
+      "pointsRnd4": 78,
+      "pointResult": 139
+    },
+    {
+      "name": "Ерёмин Владимир",
+      "pointsQual1": 4,
+      "pointsRnd1": 65,
+      "pointsQual2": 4,
+      "pointsRnd2": 16,
+      "pointsQual3": 4,
+      "pointsRnd3": 32,
+      "pointsQual4": 4,
+      "pointsRnd4": 32,
+      "pointsQual5": 4,
+      "pointsRnd5": 32,
+      "pointResult": 197
+    },
+    {
+      "name": "Меленкевич Борис",
+      "pointsQual1": 0,
+      "pointsRnd1": 0,
+      "pointResult": 0
+    },
+    {
+      "name": "Милинчук Евгений",
+      "pointsQual1": 4,
+      "pointsRnd1": 90,
+      "pointsQual2": 3,
+      "pointsRnd2": 16,
+      "pointsQual3": 4,
+      "pointsRnd3": 48,
+      "pointsQual5": 4,
+      "pointsRnd5": 65,
+      "pointResult": 234
+    },
+    {
+      "name": "Гроковенко Николай",
+      "pointsQual1": 4,
+      "pointsRnd1": 48,
+      "pointResult": 52
+    },
+    {
+      "name": "Капшай Павел",
+      "pointsQual1": 3,
+      "pointsRnd1": 16,
+      "pointsQual2": 4,
+      "pointsRnd2": 32,
+      "pointsQual3": 4,
+      "pointsRnd3": 65,
+      "pointsQual4": 4,
+      "pointsRnd4": 65,
+      "pointsQual5": 4,
+      "pointsRnd5": 16,
+      "pointResult": 213
+    },
+    {
+      "name": "Карелин Алексей",
+      "pointsQual2": 4,
+      "pointsRnd2": 48,
+      "pointResult": 52
+    },
+    {
+      "name": "Пак Михаил",
+      "pointsQual2": 3,
+      "pointsRnd2": 16,
+      "pointResult": 19
+    },
+    {
+      "name": "Дзежиц Фёдор",
+      "pointsQual2": 0,
+      "pointsRnd2": 0,
+      "pointResult": 0
+    },
+    {
+      "name": "Пшеницын Александр",
+      "pointsQual3": 3,
+      "pointsRnd3": 16,
+      "pointsQual4": 4,
+      "pointsRnd4": 32,
+      "pointResult": 55
+    },
+    {
+      "name": "Вишневский Алексей",
+      "pointsQual5": 4,
+      "pointsRnd5": 48,
+      "pointResult": 52
+    },
+    {
+      "name": "Поздняков Антон",
+      "pointsQual5": 0,
+      "pointsRnd5": 0,
+      "pointResult": 0
+    }
+ ]
+}
