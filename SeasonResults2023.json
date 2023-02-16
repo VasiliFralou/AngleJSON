@@ -1,4 +1,18 @@
 {
   "Results": [
+    {
+      "name": "Клищевский Денис",
+      "pointsQual1": 10,
+      "pointsRnd1": 32,
+      "pointsQual2": 5,
+      "pointsRnd2": 90,
+      "pointsQual3": 8,
+      "pointsRnd3": 78,
+      "pointsQual4": 8,
+      "pointsRnd4": 90,
+      "pointsQual5": 5,
+      "pointsRnd5": 90,
+      "pointResult": 416
+    }
  ]
 }
