@@ -13,32 +13,6 @@
       "pointsQual5": 6,
       "pointsRnd5": 100,
       "pointResult": 489
-    },
-    {
-      "name": "Клищевский Денис",
-      "pointsQual1": 10,
-      "pointsRnd1": 32,
-      "pointsQual2": 5,
-      "pointsRnd2": 90,
-      "pointsQual3": 8,
-      "pointsRnd3": 78,
-      "pointsQual4": 8,
-      "pointsRnd4": 90,
-      "pointsQual5": 5,
-      "pointsRnd5": 90,
-      "pointResult": 416
-    },
-    {
-      "name": "Манчукевич Алексей",
-      "pointsQual1": 3,
-      "pointsRnd1": 16,
-      "pointsQual2": 3,
-      "pointsRnd2": 65,
-      "pointsQual3": 4,
-      "pointsRnd3": 32,
-      "pointsQual5": 3,
-      "pointsRnd5": 32,
-      "pointResult": 158
     }
  ]
 }
