@@ -1,6 +1,54 @@
 {
   "Results": [
     {
+      "name": "Литвин Николай",
+      "pointsQual1": 3,
+      "pointsRnd1": 16,
+      "pointsQual2": 8,
+      "pointsRnd2": 48,
+      "pointResult": 75,
+      "year": "2022"
+    },
+    {
+      "name": "Литвин Николай",
+      "pointsQual1": 3,
+      "pointsRnd1": 100,
+      "pointsQual2": 4,
+      "pointsRnd2": 16,
+      "pointsQual3": 3,
+      "pointsRnd3": 65,
+      "pointsQual4": 4,
+      "pointsRnd4": 78,
+      "pointResult": 273,
+      "year": "2021"
+    },
+    {
+      "name": "Шевелев Валерий",
+      "pointsQual1": 4,
+      "pointsRnd1": 90,
+      "pointsQual2": 3,
+      "pointsRnd2": 16,
+      "pointsQual3": 4,
+      "pointsRnd3": 16,
+      "pointsQual4": 0,
+      "pointsRnd4": 0,
+      "pointResult": 133,
+      "year": "2021"
+    },
+    {
+      "name": "Levickas Gediminas",
+      "pointsQual1": 4,
+      "pointsRnd1": 78,
+      "pointsQual2": 5,
+      "pointsRnd2": 78,
+      "pointsQual3": 4,
+      "pointsRnd3": 32,
+      "pointsQual4": 8,
+      "pointsRnd4": 16,
+      "pointResult": 225,
+      "year": "2021"
+    },
+    {
       "name": "Кондратенко Роман",
       "pointsQual1": 5,
       "pointsRnd1": 100,
@@ -16,56 +64,28 @@
       "year": "2022"
     },
     {
-      "name": "Клищевский Денис",
-      "pointsQual1": 10,
-      "pointsRnd1": 32,
-      "pointsQual2": 5,
+      "name": "Кондратенко Роман",
+      "pointsQual1": 8,
+      "pointsRnd1": 65,
+      "pointsQual2": 10,
+      "pointsRnd2": 48,
+      "pointsQual3": 10,
+      "pointsRnd3": 90,
+      "pointsQual4": 6,
+      "pointsRnd4": 100,
+      "pointResult": 337,
+      "year": "2021"
+    },
+    {
+      "name": "Cirba Benediktas",
+      "pointsQual1": 4,
+      "pointsRnd1": 48,
+      "pointsQual2": 4,
       "pointsRnd2": 90,
       "pointsQual3": 8,
-      "pointsRnd3": 78,
-      "pointsQual4": 8,
-      "pointsRnd4": 90,
-      "pointsQual5": 5,
-      "pointsRnd5": 90,
-      "pointResult": 416,
-      "year": "2022"
-    },
-    {
-      "name": "Манчукевич Алексей",
-      "pointsQual1": 3,
-      "pointsRnd1": 16,
-      "pointsQual2": 3,
-      "pointsRnd2": 65,
-      "pointsQual3": 4,
-      "pointsRnd3": 32,
-      "pointsQual5": 3,
-      "pointsRnd5": 32,
-      "pointResult": 158,
-      "year": "2022"
-    },
-    {
-      "name": "Литвин Николай",
-      "pointsQual1": 3,
-      "pointsRnd1": 16,
-      "pointsQual2": 8,
-      "pointsRnd2": 48,
-      "pointResult": 75,
-      "year": "2022"
-    },
-    {
-      "name": "Шубадёров Владислав",
-      "pointsQual1": 8,
-      "pointsRnd1": 48,
-      "pointsQual2": 6,
-      "pointsRnd2": 32,
-      "pointsQual3": 6,
-      "pointsRnd3": 100,
-      "pointsQual4": 5,
-      "pointsRnd4": 48,
-      "pointsQual5": 8,
-      "pointsRnd5": 78,
-      "pointResult": 339,
-      "year": "2022"
+      "pointsRnd3": 16,
+      "pointResult": 170,
+      "year": "2021"
     },
     {
       "name": "Шендеров Антон",
@@ -83,6 +103,32 @@
       "year": "2022"
     },
     {
+      "name": "Шендеров Антон",
+      "pointsQual1": 3,
+      "pointsRnd1": 48,
+      "pointsQual2": 1,
+      "pointsRnd2": 0,
+      "pointsQual3": 3,
+      "pointsRnd3": 8,
+      "pointsQual4": 3,
+      "pointsRnd4": 8,
+      "pointResult": 74,
+      "year": "2021"
+    },
+    {
+      "name": "Власовец Александр",
+      "pointsQual1": 3,
+      "pointsRnd1": 32,
+      "pointsQual2": 0,
+      "pointsRnd2": 0,
+      "pointsQual3": 1,
+      "pointsRnd3": 0,
+      "pointsQual4": 1,
+      "pointsRnd4": 0,
+      "pointResult": 37,
+      "year": "2021"
+    },
+    {
       "name": "Силивончик Виталий",
       "pointsQual1": 6,
       "pointsRnd1": 32,
@@ -92,6 +138,97 @@
       "pointsRnd4": 78,
       "pointResult": 139,
       "year": "2022"
+    },
+    {
+      "name": "Силивончик Виталий",
+      "pointsQual1": 3,
+      "pointsRnd1": 32,
+      "pointsQual2": 3,
+      "pointsRnd2": 8,
+      "pointsQual3": 5,
+      "pointsRnd3": 48,
+      "pointsQual4": 3,
+      "pointsRnd4": 8,
+      "pointResult": 110,
+      "year": "2021"
+    },
+    {
+      "name": "Клищевский Денис",
+      "pointsQual1": 10,
+      "pointsRnd1": 32,
+      "pointsQual2": 5,
+      "pointsRnd2": 90,
+      "pointsQual3": 8,
+      "pointsRnd3": 78,
+      "pointsQual4": 8,
+      "pointsRnd4": 90,
+      "pointsQual5": 5,
+      "pointsRnd5": 90,
+      "pointResult": 416,
+      "year": "2022"
+    },
+    {
+      "name": "Клищевский Денис",
+      "pointsQual1": 10,
+      "pointsRnd1": 16,
+      "pointsQual2": 4,
+      "pointsRnd2": 16,
+      "pointsQual3": 4,
+      "pointsRnd3": 48,
+      "pointsQual4": 5,
+      "pointsRnd4": 48,
+      "pointResult": 151,
+      "year": "2021"
+    },
+    {
+      "name": "Шубадёров Владислав",
+      "pointsQual1": 8,
+      "pointsRnd1": 48,
+      "pointsQual2": 6,
+      "pointsRnd2": 32,
+      "pointsQual3": 6,
+      "pointsRnd3": 100,
+      "pointsQual4": 5,
+      "pointsRnd4": 48,
+      "pointsQual5": 8,
+      "pointsRnd5": 78,
+      "pointResult": 339,
+      "year": "2022"
+    },
+    {
+      "name": "Шубадёров Владислав",
+      "pointsQual1": 6,
+      "pointsRnd1": 16,
+      "pointsQual2": 3,
+      "pointsRnd2": 48,
+      "pointsQual3": 4,
+      "pointsRnd3": 32,
+      "pointsQual4": 3,
+      "pointsRnd4": 32,
+      "pointResult": 144,
+      "year": "2021"
+    },
+    {
+      "name": "Сак Сергей",
+      "pointsQual1": 5,
+      "pointsRnd1": 16,
+      "pointsQual2": 8,
+      "pointsRnd2": 100,
+      "pointsQual3": 3,
+      "pointsRnd3": 78,
+      "pointsQual4": 10,
+      "pointsRnd4": 8,
+      "pointResult": 228,
+      "year": "2021"
+    },
+    {
+      "name": "Шкуратов Алексей",
+      "pointsQual1": 3,
+      "pointsRnd1": 16,
+      "pointsQual2": 3,
+      "pointsRnd2": 8,
+      "pointResult": 30,
+      "year": "2021"
     },
     {
       "name": "Ерёмин Владимир",
@@ -109,11 +246,55 @@
       "year": "2022"
     },
     {
+      "name": "Ерёмин Владимир",
+      "pointsQual1": 4,
+      "pointsRnd1": 8,
+      "pointsQual2": 3,
+      "pointsRnd2": 8,
+      "pointsQual3": 3,
+      "pointsRnd3": 8,
+      "pointsQual4": 3,
+      "pointsRnd4": 32,
+      "pointResult": 69,
+      "year": "2021"
+    },
+    {
+      "name": "Подлужный Артур",
+      "pointsQual1": 3,
+      "pointsRnd1": 8,
+      "pointsQual2": 3,
+      "pointsRnd2": 32,
+      "pointsQual3": 3,
+      "pointsRnd3": 8,
+      "pointsQual4": 4,
+      "pointsRnd4": 65,
+      "pointResult": 126,
+      "year": "2021"
+    },
+    {
       "name": "Меленкевич Борис",
       "pointsQual1": 0,
       "pointsRnd1": 0,
       "pointResult": 0,
       "year": "2022"
+    },
+    {
+      "name": "Меленкевич Борис",
+      "pointsQual1": 3,
+      "pointsRnd1": 8,
+      "pointResult": 11,
+      "year": "2021"
+    },
+    {
+      "name": "Пискарёв Андрей",
+      "pointsQual1": 3,
+      "pointsRnd1": 8,
+      "pointsQual2": 1,
+      "pointsRnd2": 0,
+      "pointsQual3": 1,
+      "pointsRnd3": 0,
+      "pointResult": 13,
+      "year": "2021"
     },
     {
       "name": "Милинчук Евгений",
@@ -129,11 +310,218 @@
       "year": "2022"
     },
     {
-      "name": "Гроковенко Николай",
-      "pointsQual1": 4,
-      "pointsRnd1": 48,
-      "pointResult": 52,
+      "name": "Милинчук Евгений",
+      "pointsQual1": 1,
+      "pointsRnd1": 0,
+      "pointsQual2": 0,
+      "pointsRnd2": 0,
+      "pointResult": 1,
+      "year": "2021"
+    },
+    {
+      "name": "Андреев Константин",
+      "pointsQual1": 1,
+      "pointsRnd1": 0,
+      "pointsQual2": 1,
+      "pointResult": 2,
+      "year": "2021"
+    },
+    {
+      "name": "Kilbovskis Edgaras",
+      "pointsQual1": 1,
+      "pointsRnd1": 0,
+      "pointResult": 1,
+      "year": "2021"
+    },
+    {
+      "name": "Тимощук Богдан",
+      "pointsQual1": 1,
+      "pointsRnd1": 0,
+      "pointsQual2": 3,
+      "pointsRnd2": 8,
+      "pointResult": 12,
+      "year": "2021"
+    },
+    {
+      "name": "Шашков Кирилл",
+      "pointsQual1": 1,
+      "pointsRnd1": 0,
+      "pointsQual2": 0,
+      "pointsRnd2": 0,
+      "pointsQual3": 1,
+      "pointsRnd3": 0,
+      "pointResult": 2,
+      "year": "2021"
+    },
+    {
+      "name": "Панглиш Роман",
+      "pointsQual1": 1,
+      "pointsRnd1": 0,
+      "pointResult": 1,
+      "year": "2021"
+    },
+    {
+      "name": "Гавриленко Артур",
+      "pointsQual1": 1,
+      "pointsRnd1": 0,
+      "pointsQual2": 3,
+      "pointsRnd2": 32,
+      "pointsQual3": 6,
+      "pointsRnd3": 16,
+      "pointsQual4": 3,
+      "pointsRnd4": 16,
+      "pointResult": 77,
+      "year": "2021"
+    },
+    {
+      "name": "Августинович Игорь",
+      "pointsQual1": 1,
+      "pointsRnd1": 0,
+      "pointsQual2": 0,
+      "pointsRnd2": 0,
+      "pointResult": 1,
+      "year": "2021"
+    },
+    {
+      "name": "Рак Юрий",
+      "pointsQual1": 1,
+      "pointsRnd1": 0,
+      "pointResult": 1,
+      "year": "2021"
+    },
+    {
+      "name": "Bieliauskas Silvestras",
+      "pointsQual1": 0,
+      "pointsRnd1": 0,
+      "pointsQual2": 1,
+      "pointsRnd2": 0,
+      "pointsQual3": 3,
+      "pointsRnd3": 16,
+      "pointsQual4": 3,
+      "pointsRnd4": 16,
+      "pointResult": 39,
+      "year": "2021"
+    },
+    {
+      "name": "Лобков Сергей",
+      "pointsQual1": 0,
+      "pointsRnd1": 0,
+      "pointsQual3": 1,
+      "pointsRnd3": 0,
+      "pointResult": 1,
+      "year": "2021"
+    },
+    {
+      "name": "Губанов Сергей",
+      "pointsQual1": 0,
+      "pointsRnd1": 0,
+      "pointsQual4": 1,
+      "pointsRnd4": 0,
+      "pointResult": 1,
+      "year": "2021"
+    },
+    {
+      "name": "Zabulionis Giedrius",
+      "pointsQual2": 4,
+      "pointsRnd2": 65,
+      "pointResult": 69,
+      "year": "2021"
+    },
+    {
+      "name": "Bertans Nikolass",
+      "pointsQual2": 6,
+      "pointsRnd2": 16,
+      "pointResult": 22,
+      "year": "2021"
+    },
+    {
+      "name": "Пшеницын Александр",
+      "pointsQual3": 3,
+      "pointsRnd3": 16,
+      "pointsQual4": 4,
+      "pointsRnd4": 32,
+      "pointResult": 55,
       "year": "2022"
+    },
+    {
+      "name": "Пшеницын Александр",
+      "pointsQual2": 1,
+      "pointsRnd2": 0,
+      "pointsQual3": 1,
+      "pointsRnd3": 0,
+      "pointsQual4": 3,
+      "pointsRnd4": 8,
+      "pointResult": 13,
+      "year": "2021"
+    },
+    {
+      "name": "Манчукевич Алексей",
+      "pointsQual1": 3,
+      "pointsRnd1": 16,
+      "pointsQual2": 3,
+      "pointsRnd2": 65,
+      "pointsQual3": 4,
+      "pointsRnd3": 32,
+      "pointsQual5": 3,
+      "pointsRnd5": 32,
+      "pointResult": 158,
+      "year": "2022"
+    },
+    {
+      "name": "Манчукевич Алексей",
+      "pointsQual2": 1,
+      "pointsRnd2": 0,
+      "pointsQual3": 1,
+      "pointsRnd3": 0,
+      "pointsQual4": 4,
+      "pointsRnd4": 48,
+      "pointResult": 54,
+      "year": "2021"
+    },
+    {
+      "name": "Рараговский Ростислав",
+      "pointsQual2": 1,
+      "pointsRnd2": 0,
+      "pointsQual3": 3,
+      "pointsRnd3": 100,
+      "pointResult": 104,
+      "year": "2021"
+    },
+    {
+      "name": "Лобко Денис",
+      "pointsQual2": 0,
+      "pointsRnd2": 0,
+      "pointsQual3": 0,
+      "pointsRnd3": 0,
+      "pointsQual4": 0,
+      "pointsRnd4": 0,
+      "pointResult": 0,
+      "year": "2021"
+    },
+    {
+      "name": "Дрифтовский Юрий",
+      "pointsQual3": 3,
+      "pointsRnd3": 8,
+      "pointsQual4": 0,
+      "pointsRnd4": 0,
+      "pointResult": 11,
+      "year": "2021"
+    },
+    {
+      "name": "Туревич Илья",
+      "pointsQual3": 1,
+      "pointsRnd3": 0,
+      "pointsQual4": 1,
+      "pointsRnd4": 0,
+      "pointResult": 2,
+      "year": "2021"
+    },
+    {
+      "name": "Цареградцев Аркадий",
+      "pointsQual4": 4,
+      "pointsRnd4": 90,
+      "pointResult": 94,
+      "year": "2021"
     },
     {
       "name": "Капшай Павел",
@@ -148,6 +536,34 @@
       "pointsQual5": 4,
       "pointsRnd5": 16,
       "pointResult": 213,
+      "year": "2022"
+    },
+    {
+      "name": "Капшай Павел",
+      "pointsQual4": 3,
+      "pointsRnd4": 16,
+      "pointResult": 19,
+      "year": "2021"
+    },
+    {
+      "name": "Нагула Дмитрий",
+      "pointsQual4": 1,
+      "pointsRnd4": 0,
+      "pointResult": 1,
+      "year": "2021"
+    },
+    {
+      "name": "Приходько Артём",
+      "pointsQual4": 0,
+      "pointsRnd4": 0,
+      "pointResult": 0,
+      "year": "2021"
+    },
+    {
+      "name": "Гроковенко Николай",
+      "pointsQual1": 4,
+      "pointsRnd1": 48,
+      "pointResult": 52,
       "year": "2022"
     },
     {
@@ -172,15 +588,6 @@
       "year": "2022"
     },
     {
-      "name": "Пшеницын Александр",
-      "pointsQual3": 3,
-      "pointsRnd3": 16,
-      "pointsQual4": 4,
-      "pointsRnd4": 32,
-      "pointResult": 55,
-      "year": "2022"
-    },
-    {
       "name": "Вишневский Алексей",
       "pointsQual5": 4,
       "pointsRnd5": 48,
@@ -194,5 +601,4 @@
       "pointResult": 0,
       "year": "2022"
     }
- ]
 }
