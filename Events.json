@@ -1,21 +1,11 @@
 {
   "Events": [
-     {
-      "locationImg": "https://i.postimg.cc/GmYN64RH/pinsk.png",
-      "promo": "https://i.postimg.cc/GmYN64RH/pinsk.png",
-      "date": "23 апреля 2023",
-      "location": "Cтадион ДОСААФ, Пинск",
-      "name": "1-ый этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftPinsk23",
-      "latitude": 52.1311409,
-      "longitude": 26.1112127
-    },
     {
       "locationImg": "https://i.postimg.cc/JhLg8R7K/raubichi.png",
       "promo": "https://i.postimg.cc/JhLg8R7K/raubichi.png",
       "date": "28 мая 2023",
       "location": "РЦОП Раубичи, Раубичи",
-      "name": "2-ой этап Чемпионата РБ по дрифтингу",
+      "name": "1-ый этап Чемпионата РБ по дрифтингу",
       "title": "#DriftRaubichi23",
       "latitude": 54.059066,
       "longitude": 27.7324008
@@ -25,7 +15,7 @@
       "promo": "https://i.postimg.cc/LX4bqv11/stayki.png",
       "date": "25 июня 2023",
       "location": "РСТЦ ДОСААФ \"Стайки\", Прилесье",
-      "name": "3-ий этап Чемпионата РБ по дрифтингу",
+      "name": "2-ой этап Чемпионата РБ по дрифтингу",
       "title": "#DriftZarya23",
       "latitude": 53.8194204,
       "longitude": 27.7465482
@@ -35,7 +25,7 @@
       "promo": "https://i.postimg.cc/pdJSX3pv/logoisk.png",
       "date": "30 июля 2023",
       "location": "ГСОК Логойск, Логойск",
-      "name": "4-ый этап Чемпионата РБ по дрифтингу",
+      "name": "3-ий этап Чемпионата РБ по дрифтингу",
       "title": "#DriftLogoisk23",
       "latitude": 54.1816601,
       "longitude": 27.8076025
@@ -45,10 +35,20 @@
       "promo": "https://i.postimg.cc/LX4bqv11/stayki.png",
       "date": "10 сентября 2023",
       "location": "РСТЦ ДОСААФ \"Стайки\", Прилесье",
-      "name": "5-ый этап Чемпионата РБ по дрифтингу",
+      "name": "4-ый этап Чемпионата РБ по дрифтингу",
       "title": "#DriftStayki23",
       "latitude": 53.8194204,
       "longitude": 27.7465482
+    },
+    {
+      "locationImg": "https://i.postimg.cc/GmYN64RH/pinsk.png",
+      "promo": "https://i.postimg.cc/GmYN64RH/pinsk.png",
+      "date": "23 апреля 2023",
+      "location": "Cтадион ДОСААФ, Пинск",
+      "name": "5-ый этап Чемпионата РБ по дрифтингу",
+      "title": "#DriftPinsk23",
+      "latitude": 52.1311409,
+      "longitude": 26.1112127
     }
   ]
 }
