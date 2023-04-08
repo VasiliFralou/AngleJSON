@@ -1,6 +1,14 @@
 {
   
   "News": [
+     {
+      "title" : "Победителю предоставят гоночный Nissan. В Минске стартует проект \"Дрифт – детям\"",
+      "date" : "5 апреля 2023",
+      "source" : "abw.by",
+      "description" : "Школа дрифта №1 в Минске запустила абсолютно бесплатный проект для детей в возрасте от 14 до 16 лет. Как заявляют организаторы, задача номер один – воспитать чемпиона!",
+      "urlImg" : "https://static.abw.by//upload/2023/04/05/ce3ea2cd6062ff5f8ca7137bcca2fab8.webp",
+      "urlPost" : "https://abw.by/news/autosport/2023/04/05/pobeditelu-predostavyat-gonochnyi-nissan-v-minske-startuet-proekt-drift-detyam"
+    },  
     {
       "title" : "Парень с инвалидностью выиграл зимний дрифт. Фоторепортаж",
       "date" : "5 февраля 2023",
