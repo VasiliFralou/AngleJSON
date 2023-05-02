@@ -2,6 +2,14 @@
   
   "News": [
      {
+      "title" : "В эти выходные в Слуцке состоится открытие сезона дрифта 2023",
+      "date" : "2 мая 2023",
+      "source" : "slutskgorod.by",
+      "description" : "В воскресенье, 7 мая, в Слуцке на стадионе ДОСААФ в 14.00 состоится открытие сезона дрифта 2023, первый этап Лиги дрифта. Узнали подробности.",
+      "urlImg" : "http://slutsk-gorod.by/img/novosti/2023/05/01/IMG_2438.png",
+      "urlPost" : "http://slutsk-gorod.by/novosti/item/v-eti-vykhodnye-v-slutske-sostoitsya-otkrytie-sezona-drifta-2023"
+    },
+    {
       "title" : "Сезон дрифта стартовал официально",
       "date" : "1 мая 2023",
       "source" : "onliner.by",
