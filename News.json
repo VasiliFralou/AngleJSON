@@ -2,6 +2,22 @@
   
   "News": [
      {
+      "title" : "Сезон дрифта стартовал официально",
+      "date" : "1 мая 2023",
+      "source" : "onliner.by",
+      "description" : "Вчера под Минском официально стартовал сезон белорусского дрифтинга. На этот раз поле мотобольного стадиона «Заря» принимало участников первого этапа Кубка Беларуси в классе PRO2.",
+      "urlImg" : "https://content.onliner.by/news/1400x5616/f00a17c2f3f010b45e20a562a43de85c.jpeg",
+      "urlPost" : "https://auto.onliner.by/2023/05/01/sezon-drifta-startoval-oficialno"
+    },
+    {
+      "title" : "Кубок Беларуси по дрифтингу (PRO2). 1 этап (29-30.04.2023, РСТЦ ДОСААФ)",
+      "date" : "30 апреля 2023",
+      "source" : "autoby.biz",
+      "description" : "1 этап Кубка Республики Беларусь 2023 года по дрифтингу прошел 29-30 апреля на стадион \"Заря\" в РСТЦ ДОСААФ (Прилесье/Стайки).",
+      "urlImg" : "https://content.onliner.by/news/1100x5616/8fa62a7ff149a9984200681524cb410f.jpeg",
+      "urlPost" : "https://autoby.biz/autosport/2023/drift/pro2-kubok-1.php"
+    },
+    {
       "title" : "Победителю предоставят гоночный Nissan. В Минске стартует проект \"Дрифт – детям\"",
       "date" : "5 апреля 2023",
       "source" : "abw.by",
