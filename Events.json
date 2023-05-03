@@ -2,13 +2,14 @@
   "Events": [
     {
       "locationImg": "https://i.postimg.cc/JhLg8R7K/raubichi.png",
-      "promo": "https://i.postimg.cc/JhLg8R7K/raubichi.png",
-      "date": "28 мая 2023, 13:00",
+      "promo": "https://i.postimg.cc/MzMm7r1K/Drift-Raubichi23.jpg",
+      "date": "28 мая 2023, 15:00",
       "location": "РЦОП Раубичи, Раубичи",
       "name": "1-ый этап Чемпионата РБ по дрифтингу",
       "title": "#DriftRaubichi23",
       "latitude": 54.059066,
-      "longitude": 27.7324008
+      "longitude": 27.7324008,
+      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/driftraubichi-i-etap-betera-chempionata-belarusi-po-drifting-28-maya-2023/"
     },
     {
       "locationImg": "https://i.postimg.cc/LX4bqv11/stayki.png",
