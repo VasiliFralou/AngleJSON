@@ -2,6 +2,14 @@
   
   "News": [
      {
+      "title" : "28 мая Раубичи – I этап Betera Чемпионата Беларуси по дрифтингу",
+      "date" : "3 мая 2023",
+      "source" : "drift.by",
+      "description" : "Команда Racingby представляет долгожданный I этап Betera Чемпионата Беларуси по дрифтингу. Открытие сезона состоится 28 мая в самом роскошном месте – РЦОП Раубичи. Биатлонный стадион раз в год превращается в настоящую гоночную трассу!",
+      "urlImg" : "https://drift.by/wp-content/uploads/2023/05/Raubichi23_800-768x768.jpg",
+      "urlPost" : "https://drift.by/28-maya-raubichi-i-etap-betera-chempionata-belarusi-po-driftingu/"
+    },
+    {
       "title" : "В эти выходные в Слуцке состоится открытие сезона дрифта 2023",
       "date" : "2 мая 2023",
       "source" : "slutskgorod.by",
