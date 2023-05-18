@@ -2,6 +2,14 @@
   
   "News": [
      {
+      "title" : "1 этап Чемпионата Беларуси 2023 года по дрифтингу",
+      "date" : "17 мая 2023",
+      "source" : "autoby.biz",
+      "description" : "Чемпионат Республики Беларуси по дрифтингу стартует 28.05.2023. Открытие сезона пройдёт в РЦОП Раубичах. Любители дрифта в Беларуси хорошо знают эту локацию.",
+      "urlImg" : "https://autoby.biz/i/autosport/2023/drift/championship-1.jpg",
+       "urlPost" : "https://autoby.biz/autosport/2023/drift/championship-1.php"
+    },
+    {
       "title" : "28 мая Раубичи – I этап Betera Чемпионата Беларуси по дрифтингу",
       "date" : "3 мая 2023",
       "source" : "drift.by",
