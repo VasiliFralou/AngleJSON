@@ -1,6 +1,14 @@
 {
   "News": [
     {
+      "title" : "28 мая состоится открытие сезона по дрифтингу",
+      "date" : "25 Мая 2023",
+      "source" : "av.by",
+      "description" : "Команда Racingby представляет долгожданный I этап Betera-чемпионата Беларуси по дрифтингу. Открытие сезона состоится 28 мая в роскошном месте — РЦОП «Раубичи».",
+      "urlImg" : "https://avcdn.av.by/wisiwigimage/0002/0536/7142.jpeg",
+       "urlPost" : "https://av.by/news/pervii_etap_betera_chempionata_rb_po_driftingu"
+    },
+    {
       "title" : "Как выглядит ателье, где собирают и обслуживают чемпионские автомобили для дрифта и ралли?",
       "date" : "25 Мая 2023",
       "source" : "onliner.by",
