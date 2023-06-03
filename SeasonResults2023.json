@@ -1,4 +1,87 @@
 {
   "Results": [
- ]
+    {
+      "name": "Кондратенко Роман",
+      "pointsQual1": 5,
+      "pointsRnd1": 100,
+      "pointResult": 105
+    },
+    {
+      "name": "Миленчук Евгений",
+      "pointsQual1": 4,
+      "pointsRnd1": 90,
+      "pointResult": 94
+    },
+    {
+      "name": "Шубадёров Владислав",
+      "pointsQual1": 10,
+      "pointsRnd1": 78,
+      "pointResult": 88
+    },
+    {
+      "name": "Манчукевич Алексей",
+      "pointsQual1": 4,
+      "pointsRnd1": 65,
+      "pointResult": 69
+    },
+    {
+      "name": "Капшай Павел",
+      "pointsQual1": 6,
+      "pointsRnd1": 48,
+      "pointResult": 54
+    },
+    {
+      "name": "Лейтис Артём",
+      "pointsQual1": 4,
+      "pointsRnd1": 48,
+      "pointResult": 52
+    },
+    {
+      "name": "Клищевский Денис",
+      "pointsQual1": 8,
+      "pointsRnd1": 32,
+      "pointResult": 40
+    },
+    {
+      "name": "Силивончик Виталий",
+      "pointsQual1": 4,
+      "pointsRnd1": 32,
+      "pointResult": 36
+    },
+    {
+      "name": "Юхневич Евгений",
+      "pointsQual1": 3,
+      "pointsRnd1": 16,
+      "pointResult": 19
+    },
+    {
+      "name": "Куприянчик Роман",
+      "pointsQual1": 3,
+      "pointsRnd1": 16,
+      "pointResult": 19
+    },
+    {
+      "name": "Максаков Никита",
+      "pointsQual1": 3,
+      "pointsRnd1": 16,
+      "pointResult": 19
+    },
+    {
+      "name": "Августинович Игорь",
+      "pointsQual1": 3,
+      "pointsRnd1": 16,
+      "pointResult": 19
+    },
+    {
+      "name": "Самошкин Дмитрий",
+      "pointsQual1": 3,
+      "pointsRnd1": 8,
+      "pointResult": 11
+    },
+    {
+      "name": "Ерёмин Владимир",
+      "pointsQual1": 3,
+      "pointsRnd1": 8,
+      "pointResult": 11
+    }
 }
