@@ -1,6 +1,38 @@
 {
   "News": [
     {
+      "title" : "Двойной Дрифт в Стайках 18 июня",
+      "date" : "2 июня 2023",
+      "source" : "drift.by",
+      "description" : "Автодром Стайки 18 июня примет двойную дозу дрифтинга! Впервые зрители смогут наблюдать в один день соревнования Кубка Беларуси по дрифтинга (PRO2) и Betera Чемпионата Беларуси по дрифтингу (PRO)!",
+      "urlImg" : "https://i.postimg.cc/9VxpMJFG/DRIFTSTAYKI23.jpg",
+       "urlPost" : "https://drift.by/dvojnoj-drift-v-stajkax-18-iyunya/"
+    },
+    {
+      "title" : "Очень ярко, дымно и многолюдно. Посмотрите, как прошёл I этап Betera-чемпионата по дрифтингу",
+      "date" : "31 мая 2023",
+      "source" : "av.by",
+      "description" : "28 мая в РЦОП «Раубичи» состоялся I этап Betera-чемпионата Беларуси по дрифтингу. На старт выехало 14 пилотов из Беларуси и России. Было очень ярко, дымно и многолюдно.",
+      "urlImg" : "https://avcdn.av.by/wisiwigimage/0002/0716/3548.jpeg",
+       "urlPost" : "https://av.by/news/1_etap_betera_chempionata_po_driftu_fotootchet"
+    },
+    {
+      "title" : "Драма со спецэффектами. Как проходил дрифт в Раубичах",
+      "date" : "30 мая 2023",
+      "source" : "abw.by",
+      "description" : "Ох, лихо начался чемпионат Беларуси по дрифту! Главная интрига гонки – кто станет ее победителем – держалась вплоть до самого последнего заезда.",
+      "urlImg" : "https://i.postimg.cc/QxD17F4P/03-06-2023.png",
+       "urlPost" : "https://abw.by/news/autosport/2023/05/30/drama-so-speceffektami-kak-prohodil-drift-v-raubichah"
+    },
+    {
+      "title" : "Как всегда, топ. Стартовал чемпионат Беларуси по дрифтингу",
+      "date" : "29 мая 2023",
+      "source" : "onliner.by",
+      "description" : "Вчера в Раубичах было шумно и многолюдно. На целый день биатлонный стадион превратился в настоящую гоночную трассу.",
+      "urlImg" : "https://content.onliner.by/news/1400x5616/430115e78c6268bac514ed606ce0a518.jpeg",
+       "urlPost" : "https://auto.onliner.by/2023/05/29/kak-vsegda-top-startoval-chempionat-belarusi-po-driftingu"
+    },
+    {
       "title" : "28 мая состоится открытие сезона по дрифтингу",
       "date" : "25 Мая 2023",
       "source" : "av.by",
