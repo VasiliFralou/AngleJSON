@@ -6,7 +6,7 @@
       "date": "28 мая 2023, 13:00",
       "location": "РЦОП Раубичи, Раубичи",
       "name": "1-ый этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftRaubichi23",
+      "title": "#DriftRaubichi",
       "latitude": 54.059066,
       "longitude": 27.7324008,
       "eventScheme": "https://www.ticketpro.by/storage/img/uploads/ckeditor/cke_6452681f6025a05-03-2023-04-56-47.jpg",
@@ -26,17 +26,21 @@
         "88 Клищевский Денис (Беларусь, Пинск) \nАвто: Nissan 200SX S13 2JZ, 3.0, 650 л.с.",
         "99 Силивончик Виталий (Беларусь, Минск) \nАвто: Nissan 200SX LS, 5.7, 460 л.с.",
         "911 Кондратенко Роман (Беларусь, Минск) \nАвто: Nissan S13 1JZ, 600 л.с."],
-      "judgesTask": "https://i.postimg.cc/PH3cXkHx/28-05-23.jpg"
+      "judgesTask": "https://i.postimg.cc/PH3cXkHx/28-05-23.jpg",
+      "results": "https://i.postimg.cc/x1D2LmMM/28-05-2023-0.png",
+      "grid": "https://i.postimg.cc/pXxTt3cg/28-05-23-1.png"
     },
     {
       "locationImg": "https://i.postimg.cc/LX4bqv11/stayki.png",
       "promo": "https://i.postimg.cc/LX4bqv11/stayki.png",
-      "date": "25 июня 2023",
+      "date": "18 июня 2023, 12:00",
       "location": "РСТЦ ДОСААФ \"Стайки\", Прилесье",
       "name": "2-ой этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftZarya23",
+      "title": "#DriftStayki",
       "latitude": 53.8194204,
-      "longitude": 27.7465482
+      "longitude": 27.7465482,
+      "eventScheme": "https://www.ticketpro.by/storage/img/uploads/ckeditor/cke_6479f3255495806-02-2023-04-48-21.jpg",
+      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/driftstayki-ii-etap-betera-chempionata-belarusi-po-driftingu-18-iyunya-2023/"
     },
     {
       "locationImg": "https://i.postimg.cc/pdJSX3pv/logoisk.png",
