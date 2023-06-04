@@ -7,28 +7,30 @@
       "team": "ЭТА Моторспорт",
       "instagram": "dikijdrifter",
       "description": "Действующий чемпион Беларуси по дрифтингу, двукратный чемпион Беларуси по дрифтингу (2021 и 2022 года), победитель 2 этапа FIA NEZ DRIFT CHAMPIONSHIP 2021 года, обладатель кубка EEDC 2021 года, принимал участие в Russian Drift Series GP.",
-      "auto": "Nissan S13, 1JZ, 600 л.с.",
+      "auto": "BMW M2 Competition, 2JZ, 3.0, 600 л.с. / Nissan S13, 1JZ, 600 л.с.",
       "photo": "https://i.postimg.cc/k53vx79y/Roman-Kondratenko.png",
       "photoAuto": "https://i.postimg.cc/ty752ktR/Roman-Kondratenko.jpg",
-      "achievement": [
-         "Чемпион Республики Беларуси по дрифтингу 2022 года",
-         "1-е место - 5 этап чемпионата РБ 2022 г.",
-         "1-е место - 4 этап чемпионата РБ 2022 г.",
-         "Победитель квалификации - 4 этап чемпионата РБ 2022 г.",
-         "Победитель квалификации - 3 этап чемпионата РБ 2022 г.",
-         "1-е место - 2 этап чемпионата РБ 2022 г.",
-         "Победитель квалификации - 2 этап чемпионата РБ 2022 г.",
-         "1-е место - 1 этап чемпионата РБ 2022 г.",
-         "Обладатель кубка - EEDC (Eastern European Drift Cup) 2021 г.",
-         "1-е место - 2 этап FIA NEZ (North European Zone) DRIFT CHAMPIONSHIP 2021 г.",
-         "Чемпион Республики Беларуси по дрифтингу 2021 года",
-         "1-е место - 4 этап чемпионата РБ 2021 г.",
-         "2-е место - 3 этап чемпионата РБ 2021 г.",
-         "Победитель квалификации - 3 этап чемпионата РБ 2021 г.",
-         "Победитель квалификации - 2 этап чемпионата РБ 2021 г.",
-         "Победитель квалификации - 1 этап чемпионата РБ 2020 г.",
-         "3-е место - Кубок РБ 2019 г. по дрифтингу",
-         "2-е место - 1 этап чемпионата РБ 2019 г."]
+      "titles": [
+        "Двухкратный чемпион РБ (2021-2022 г.)",
+        "Чемпион EEDC 2021 г.",
+        "Бронзовый призёр Кубка РБ 2019 г."],
+      "catwalks": [
+        "2 место: I этап чемпионата РБ 2019 г.",
+        "1 место: II этап FIA NEZdrift 2021 г.",
+        "2 место: III этап чемпионата РБ 2021 г.",
+        "1 место: IV этап чемпионата РБ 2021 г.",
+        "1 место: I этап чемпионата РБ 2022 г.",
+        "1 место: II этап чемпионата РБ 2022 г.",
+        "1 место: IV этап чемпионата РБ 2022 г.",
+        "1 место: V этап чемпионата РБ 2022 г."],
+      "qualifications": [
+        "Этап чемпионата РБ 2020 г.",
+        "Кубок EEDC 2021 г.",
+        "II этап чемпионата РБ 2021 г.",
+        "III этап чемпионата РБ 2021 г.",
+        "II этап чемпионата РБ 2022 г.",
+        "III этап чемпионата РБ 2022 г.",
+        "IV этап чемпионата РБ 2022 г."]
     },
     {
       "name": "Клищевский Денис",
@@ -39,13 +41,21 @@
       "auto": "Nissan 200SX S13 2JZ, 3.0, 650 л.с.",
       "photo": "https://i.postimg.cc/kGpxDmfK/Denis-Klischevski.png",
       "photoAuto": "https://i.postimg.cc/QhLx6Nc1/Denis-Klischevskiy.jpg",
-      "achievement": [
-         "Вице-чемпион Республики Беларусь по дрифту 2022 года",
-         "2-е место - 5 этап чемпионата РБ 2022 г.",
-         "2-е место - 4 этап чемпионата РБ 2022 г.",
-         "3-е место - 3 этап чемпионата РБ 2022 г.",
-         "2-е место - 2 этап чемпионата РБ 2022 г.",
-         "Победитель квалификации - 1 этап чемпионата РБ 2022 г."]
+      "titles": [
+        "Вице-чемпион РБ 2022 г."],
+      "catwalks": [
+        "3 место: V этап чемпионата РБ 2018 г.",
+        "3 место: III этап чемпионата РБ 2019 г.",
+        "1 место: этап чемпионата РБ 2020 г.",
+        "2 место: II этап чемпионата РБ 2022 г.",
+        "3 место: III этап чемпионата РБ 2022 г.",
+        "2 место: IV этап чемпионата РБ 2022 г.",
+        "2 место: V этап чемпионата РБ 2022 г."],
+      "qualifications": [
+        "II этап чемпионата РБ 2018 г.",
+        "III этап чемпионата РБ 2019 г.",
+        "I этап чемпионата РБ 2021 г.",
+        "I этап чемпионата РБ 2022 г."]
     },
     {
       "name": "Шендеров Антон",
@@ -56,12 +66,14 @@
       "auto": "Nissan S13 2JZ-GE, 3.0, 500 л.с.",
       "photo": "https://i.postimg.cc/NGJ8d6BF/Anton-Shenderov.png",
       "photoAuto": "https://i.postimg.cc/1y3rTKD3/Anton-Shenderov.jpg",
-      "achievement": [
-         "Бронзовый призёр Республики Беларусь по дрифту 2022 года",
-         "Победитель квалификации - 5 этап чемпионата РБ 2022 г.",
-         "2-е место - 3 этап чемпионата РБ 2022 г.",
-         "3-е место - 2 этап чемпионата РБ 2022 г.",
-         "3-е место - 1 этап чемпионата РБ 2022 г."]
+      "titles": [
+        "Бронзовый призёр чемпионата РБ 2022 г."],
+      "catwalks": [
+        "3 место: I этап чемпионата РБ 2022 г.",
+        "3 место: II этап чемпионата РБ 2022 г.",
+        "2 место: III этап чемпионата РБ 2022 г."],
+      "qualifications": [
+        "V этап чемпионата РБ 2022 г."]
     },
     {
       "name": "Шубадёров Владислав",
@@ -72,9 +84,10 @@
       "auto": "Nissan Silvia S15 2JZ, 3.0, 700 л.с.",
       "photo": "https://i.postimg.cc/Bb6Tq6cJ/Vladislav-Shuboderov.png",
       "photoAuto": "https://i.postimg.cc/WpRxsysV/Vladislav-Shubaderov.jpg",
-      "achievement": [
-         "3-е место - 5 этап чемпионата РБ 2022 г.",
-         "1-е место - 3 этап чемпионата РБ 2022 г."]
+      "catwalks": [
+        "3 место: II этап FIA NEZdrift 2021 г.",
+        "1 место: III этап чемпионата РБ 2022 г.",
+        "3 место: V этап чемпионата РБ 2022 г."]
     },
     {
       "name": "Милинчук Евгений",
@@ -86,8 +99,8 @@
       "auto": "BMW E46, 2.8, 500 л.с.",
       "photo": "https://i.postimg.cc/wj2M5JTf/Evgenii-Milinchuk.png",
       "photoAuto": "https://i.postimg.cc/bzW6NLGy/Evgenii-Milinchuk.jpg",
-      "achievement": [
-         "2-е место - 1 этап чемпионата РБ 2022 г."]
+      "catwalks": [
+        "2 место: I этап чемпионата РБ 2022 г."]
     },
     {
       "name": "Капшай Павел",
@@ -105,7 +118,7 @@
       "birthday": "23 июля 1987 г.",
       "team": "Adrenalin Drift Team",
       "instagram": "v.barada",
-      "auto": "Nissan Silvia 80, 1JZ, 490 л.с.",
+      "auto": "Nissan Silvia 80, 1JZ, 490 л.с. / BMW 320 E46, 1JZ, 500 л.с.",
       "photo": "https://i.postimg.cc/76q1WX5G/Vladimir-Eremin.png",
       "photoAuto": "https://i.postimg.cc/sV8RvKc7/Vladimir-Eremin.jpg"
     }, 
@@ -128,8 +141,8 @@
       "auto": "Nissan 200SX LS, 5.7, 460 л.с.",
       "photo": "https://i.postimg.cc/436bPjxR/Vitaliy-Silivonchik.png",
       "photoAuto": "https://i.postimg.cc/XVXbjtwn/Vitaliy-Silivonchik.jpg",
-      "achievement": [
-         "3-е место - 4 этап чемпионата РБ 2022 г."]
+      "catwalks": [
+        "3 место: IV этап чемпионата РБ 2022 г."]
     },
     {
       "name": "Литвин Николай",
@@ -141,8 +154,12 @@
       "auto": "Nissan 200SX S14, LS3 Supercharger, 6.2, 650 л.с.",
       "photo": "https://i.postimg.cc/Y98NKgFX/Nikolay-Litvin.png",
       "photoAuto": "https://i.postimg.cc/MqZv76Ch/Nikolay-Litvin.jpg",
-      "achievement": [
-         "Вице-чемпион Республики Беларусь по дрифту 2021 года"]
+      "titles": [
+        "Вице-чемпион РБ 2021 г."],
+      "catwalks": [
+        "3 место: IV этап чемпионата РБ 2019 г.",
+        "1 место: I этап чемпионата РБ 2021 г.",
+        "3 место: IV этап чемпионата РБ 2021 г."]
     },
     {
       "name": "Меленкевич Борис",
@@ -160,7 +177,7 @@
       "birthday": "14 января 1981 г.",
       "team": "G-Drive",
       "instagram": "sergei_sak",
-      "description": "Белорусский автогонщик, неоднократный призер различных видов соревнований, как в Беларуси, так и за ее пределами. Двукратный чемпион Беларуси по дрифту (2016 и 2017 года), вице-чемпион 2014 года чемпионата РБ по дрифту, победитель EEDC 2016, серебряный призёр 2-ого этапа RDS 2014, бронзовый призёр чемпионата РБ по дрифту 2015 и 2021 года.",
+      "description": "Белорусский автогонщик, неоднократный призер различных видов соревнований, как в Беларуси, так и за ее пределами. Чемпон EEDC 2016 года, двухкратный чемпион Беларуси по дрифту (2016-2017 г.), Вице-чемпион EEDC 2017 года, Вице-чемпион Беларуси по дрифту 2014 года, серебрянный призёр 2-ого этапа RDS 2014 года, двухкратный серебрянный призёр Кубка РБ (2016, 2019 г.), двухкратный бронзовый призёр чемпионата РБ (2015, 2021 г.). Принимал участие в FIA IDC",
       "auto": "Nissan 350Z, 5.6, 420 л.с.",
       "photo": "https://i.postimg.cc/zfx5cjrF/Sergei-Sak.png",
       "photoAuto": "https://i.postimg.cc/gGgpPGLM/Sergei-Sak.jpg",
@@ -214,7 +231,27 @@
       "instagram": "levickasgediminas",
       "auto": "Nissan Silvia S14 2JZ, 3.0, 500 л.с.",
       "photo": "https://i.postimg.cc/D097cwTV/Gediminas-Levickas.png",
-      "photoAuto": "https://i.postimg.cc/wHRjcRR9/Gediminas-Levickas.jpg"
+      "photoAuto": "https://i.postimg.cc/wHRjcRR9/Gediminas-Levickas.jpg",
+      "titles": [
+        "Чемпион РБ 2019 г.",
+        "Вице-чемпион EEDC 2018 г.",
+        "Бронзовый призёр чемпионата РБ 2018 г."],
+      "catwalks": [
+        "1 место: V этап чемпионата РБ 2017 г.",
+        "3 место: I этап чемпионата РБ 2018 г.",
+        "2 место: II этап чемпионата РБ 2018 г.",
+        "2 место: III этап чемпионата РБ 2018 г.",
+        "1 место: I этап чемпионата РБ 2019 г.",
+        "3 место: II этап чемпионата РБ 2019 г.",
+        "2 место: III этап чемпионата РБ 2019 г.",
+        "2 место: IV этап чемпионата РБ 2019 г.",
+        "3 место: I этап чемпионата РБ 2021 г.",
+        "3 место: II этап чемпионата РБ 2021 г."],
+      "qualifications": [
+        "I этап чемпионата РБ 2018 г.",
+        "III этап чемпионата РБ 2018 г.",
+        "V этап чемпионата РБ 2018 г.",
+        "II этап чемпионата РБ 2019 г."]
     },
     {
       "name": "Cirba Benediktas",
@@ -224,7 +261,9 @@
       "instagram": "benediktascirba",
       "auto": "BMW E92 Eurofighter, 950 л.с.",
       "photo": "https://i.postimg.cc/5tgNMJwv/Benediktas-Cirba.png",
-      "photoAuto": "https://i.postimg.cc/xfhTVnhr/Benediktas-Cirba.jpg"
+      "photoAuto": "https://i.postimg.cc/xfhTVnhr/Benediktas-Cirba.jpg",
+      "catwalks": [
+        "2 место: II этап чемпионата РБ 2021 г."]
     },
     {
       "name": "Шевелёв Валерий",
@@ -233,7 +272,9 @@
       "instagram": "valeriy.shevelev",
       "auto": "Nissan Silvia S14 2JZ, 500 л.с.",
       "photo": "https://i.postimg.cc/nz5xHhMs/Valeriy-Shevelev.png",
-      "photoAuto": "https://i.postimg.cc/Cwh0tR5B/Valeriy-Shevelev.jpg"
+      "photoAuto": "https://i.postimg.cc/Cwh0tR5B/Valeriy-Shevelev.jpg",
+      "catwalks": [
+        "2 место: I этап чемпионата РБ 2021 г."]
     },
     {
       "name": "Подлужный Артур",
@@ -251,7 +292,9 @@
       "instagram": "raragovskyi",
       "auto": "Toyota GT86 2GT GTE, 3.4, 1116 л.с.",
       "photo": "https://i.postimg.cc/QdrX9Cm1/Rostislav-Raragovskyi.png",
-      "photoAuto": "https://i.postimg.cc/dvCJTMg1/Rostislav-Raragovskyi.jpg"
+      "photoAuto": "https://i.postimg.cc/dvCJTMg1/Rostislav-Raragovskyi.jpg",
+      "catwalks": [
+        "1 место: III этап чемпионата РБ 2021 г."]
     },  
     {
       "name": "Цареградцев Аркадий",
@@ -262,7 +305,17 @@
       "description": "Аркадий Петрович Цареградцев — российский автогонщик-дрифтер, организатор, судья, Чемпион Сибири 2013, 2014 и 2016 года. В настоящее время выступает в отделении Российской Дрифт Серии GP на Nissan 370Z с мотором VR38DETT, за команду FailCrew Дарксайд.",
       "auto": "Nissan 370Z VR38DETT, 3.8, 953 л.с.",
       "photo": "https://i.postimg.cc/NGzFMQZk/Arkady-Tsaregradtsev.png",
-      "photoAuto": "https://i.postimg.cc/632W4m71/Arkady-Tsaregradtsev.jpg"
+      "photoAuto": "https://i.postimg.cc/632W4m71/Arkady-Tsaregradtsev.jpg",
+      "catwalks": [
+        "2 место: I этап чемпионата РБ 2016 г.",
+        "1 место: V этап чемпионата РБ 2016 г.",
+        "1 место: I этапа Кубка EEDC 2016 г.",
+        "2 место: I этап чемпионата РБ 2017 г.",
+        "2 место: IV этап чемпионата РБ 2021 г."],
+      "qualifications": [
+        "I этап Кубка EEDC 2016 г.",
+        "I этап чемпионата РБ 2017 г.",
+        "II этап чемпионата РБ 2017 г."]
     },
     {
       "name": "Пискарев Андрей",
@@ -272,7 +325,20 @@
       "description": "Белорусский автогонщик, вице-чемпион Беларуси по дрифтингу 2018 года.",
       "auto": "BMW 320 LSX, 7.4, 600 л.с.",
       "photo": "https://i.postimg.cc/3xMwXn8y/Andrey-Piskarev.png",
-      "photoAuto": "https://i.postimg.cc/KZcYn9BW/Andrey-Piskarev.jpg"
+      "photoAuto": "https://i.postimg.cc/KZcYn9BW/Andrey-Piskarev.jpg",
+      "titles": [
+        "Вице-чемпион РБ 2018 г."],
+      "catwalks": [
+        "3 место: V этап чемпионата РБ 2014 г.",
+        "1 место: III этап чемпионата РБ 2015 г.",
+        "1 место: V этап чемпионата РБ 2015 г.",
+        "3 место: V этап чемпионата РБ 2017 г.",
+        "1 место: II этап чемпионата РБ 2018 г.",
+        "3 место: IV этап чемпионата РБ 2018 г.",
+        "1 место: V этап чемпионата РБ 2018 г.",
+        "3 место: этап чемпионата РБ 2020 г."],
+      "qualifications": [
+        "Кубок РБ 2019 г."]
     },
     {
       "name": "Ivanauskas Gediminas",
@@ -303,7 +369,9 @@
       "description": "Российский автогонщик-дрифтер, двукратный вице-чемпион RDS GP, амбассадор Toyota Gazoo Racing. Победитель международного кубка «Автоэкзотика», многократный участник и призер Российских и международных соревнований. Первый дрифтер проехавший на Сочи Автодром знаменитый «третий поворот» в заносе.",
       "auto": "Toyota Supra A90 2JZ-GTE, 3.4, 1013 л.с.",
       "photo": "https://i.postimg.cc/J4XrzZNR/Nikita-Shikov.png",
-      "photoAuto": "https://i.postimg.cc/TdLf9Bwt/Nikita-Shikov.jpg"
+      "photoAuto": "https://i.postimg.cc/TdLf9Bwt/Nikita-Shikov.jpg",
+      "titles": [
+        "Бронзовый призёр Кубка EEDC 2021 г."]
     },
     {
       "name": "Головня Алексей",
@@ -313,7 +381,13 @@
       "instagram": "alexgolovnya",
       "auto": "Nissan Silvia S14 2JZ, 3.0, 700 л.с.",
       "photo": "https://i.postimg.cc/XJNqZqVQ/Aleksey-Golovnya.png",
-      "photoAuto": "https://i.postimg.cc/GR5pyx2M/Aleksey-Golovnya.jpg"
+      "photoAuto": "https://i.postimg.cc/GR5pyx2M/Aleksey-Golovnya.jpg",
+      "titles": [
+        "Вице-чемпион EEDC 2019 г.",
+        "Вице-чемпион EEDC 2021 г."],
+      "qualifications": [
+        "II этап Кубка EEDC 2013 г.",
+        "Кубок EEDC 2019 г."]
     }
  ]
 }
