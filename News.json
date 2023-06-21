@@ -1,6 +1,30 @@
 {
   "News": [
     {
+      "title" : "«Машина подлетела очень высоко». Как прошёл #DriftStayki",
+      "date" : "21 июня 2023",
+      "source" : "av.by",
+      "description" : "В воскресенье, 18 июня, в «Стайках» прошёл очередной этап Кубка Беларуси по дрифтингу (PRO2) и Betera-чемпионата Беларуси по дрифтингу (PRO) от Racing.by.",
+      "urlImg" : "https://avcdn.av.by/wisiwigimage/0002/1422/0708.jpeg",
+       "urlPost" : "https://av.by/news/drift_staiki_18_june_fotootchet"
+    },
+    {
+      "title" : "Дым без огня. Лучшие дрифтеры отожгли в Стайках",
+      "date" : "19 июня 2023",
+      "source" : "onliner.by",
+      "description" : "Вчера под Минском было жарко и в прямом, и в переносном смысле. Столбик термометра перевалил за 30 градусов, палило солнце... Какие тут могут быть гонки?",
+      "urlImg" : "https://content.onliner.by/news/1400x5616/6f7c71a2f2520be4998f216f97d4d2d4.jpeg",
+       "urlPost" : "https://auto.onliner.by/2023/06/19/drifting-away"
+    },
+    {
+      "title" : "Даешь BMW! Как прошел двойной дрифт в Стайках",
+      "date" : "19 июня 2023",
+      "source" : "abw.by",
+      "description" : "Следует признать: BMW решает. Особенно если говорим о зачете PRO2. Да и в PRO в этот день без баварских машин не обошлось.",
+      "urlImg" : "https://i.postimg.cc/bv4cdnx6/19-06-23.png",
+       "urlPost" : "https://abw.by/news/autosport/2023/06/19/daesh-bmw-kak-proshel-dvoinoi-drift-v-staikah"
+    },
+    {
       "title" : "Дым из-под колес и запах резины. В эти выходные пройдут соревнования по дрифту",
       "date" : "16 июня 2023",
       "source" : "onliner.by",
