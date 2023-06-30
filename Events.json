@@ -6,7 +6,7 @@
       "date": "28 мая 2023, 13:00",
       "location": "РЦОП Раубичи, Раубичи",
       "name": "1-ый этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftRaubichi",
+      "title": "#DriftRaubichi23",
       "latitude": 54.059066,
       "longitude": 27.7324008,
       "eventScheme": "https://www.ticketpro.by/storage/img/uploads/ckeditor/cke_6452681f6025a05-03-2023-04-56-47.jpg",
@@ -36,7 +36,7 @@
       "date": "18 июня 2023, 12:00",
       "location": "РСТЦ ДОСААФ \"Стайки\", Прилесье",
       "name": "2-ой этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftStayki",
+      "title": "#DriftStayki23",
       "latitude": 53.8194204,
       "longitude": 27.7465482,
       "eventScheme": "https://www.ticketpro.by/storage/img/uploads/ckeditor/cke_6479f3255495806-02-2023-04-48-21.jpg",
@@ -85,12 +85,15 @@
     {
       "locationImg": "https://i.postimg.cc/pdJSX3pv/logoisk.png",
       "promo": "https://i.postimg.cc/pdJSX3pv/logoisk.png",
+      "promo": "https://drift.by/wp-content/uploads/2023/06/DRIFTLOGOISK23_900_900-768x768.jpg",
       "date": "30 июля 2023",
       "location": "ГСОК Логойск, Логойск",
       "name": "3-ий этап Чемпионата РБ по дрифтингу",
       "title": "#DriftLogoisk23",
       "latitude": 54.1816601,
-      "longitude": 27.8076025
+      "longitude": 27.8076025,
+      "eventScheme": "https://www.ticketpro.by/storage/img/uploads/ckeditor/cke_649af6564182b06-27-2023-05-46-46.jpg",
+      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/driftlogoisk-iii-etap-betera-chempionata-belarusi-po-driftingu-30-iyulya-2023/"
     },
     {
       "locationImg": "https://i.postimg.cc/LX4bqv11/stayki.png",
