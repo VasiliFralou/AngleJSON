@@ -1,6 +1,14 @@
 {
   "News": [
     {
+      "title" : "Ночной дрифт и выставка-ярмарка пройдут в Логойске",
+      "date" : "18 июля 2023",
+      "source" : "av.by",
+      "description" : "Racingby представляет самую необычную гонку нынешнего лета — ночной дрифт в Логойске. Это третий этап Betera-чемпионата Беларуси по дрифтингу в классе PRO, который состоится 30 июля.",
+      "urlImg" : "https://avcdn.av.by/journalarticlepreviewmedium/0002/2072/3561.jpg",
+       "urlPost" : "https://av.by/news/nochnoi_drift_v_logoiske_anons"
+    },  
+    {
       "title" : "«Машина подлетела очень высоко». Как прошёл #DriftStayki",
       "date" : "21 июня 2023",
       "source" : "av.by",
