@@ -1,6 +1,22 @@
 {
   "News": [
     {
+      "title" : "#DriftLogoisk: третий этап Betera Чемпионата Беларуси по дрифтингу в прямом эфире VOKA",
+      "date" : "29 июля 2023",
+      "source" : "av.by",
+      "description" : "30 июля в Логойске пройдёт третий этап Betera Чемпионата Беларуси по дрифтингу. Видеосервис VOKA бесплатно покажет его в прямом эфире. Трансляция начнется в 14:00 и продлится до конца дня.",
+      "urlImg" : "https://avcdn.av.by/wisiwigimage/0002/2399/4383.jpeg",
+       "urlPost" : "https://av.by/news/chempionat-po-driftingu-voka"
+    },
+    {
+      "title" : "Самый душевный дрифт. Ночной этап в Логойске – в это воскресенье",
+      "date" : "26 июля 2023",
+      "source" : "abw.by",
+      "description" : "Третий этап чемпионата Беларуси по дрифтингу в классе PRO пройдет 30 июля в ГСОК «Логойск». ",
+      "urlImg" : "https://i.postimg.cc/QtM78t6s/26-07-2023.png",
+      "urlPost" : "https://abw.by/news/autosport/2023/07/26/samyi-dushevnyi-drift-nochnoi-etap-v-logoiske--v-eto-voskresene"
+    },
+    {
       "title" : "Ночной дрифт и выставка-ярмарка пройдут в Логойске",
       "date" : "17 июля 2023",
       "source" : "av.by",
