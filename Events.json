@@ -2,7 +2,6 @@
   "Events": [
     {
       "locationImg": "https://i.postimg.cc/pdJSX3pv/logoisk.png",
-      "promo": "https://i.postimg.cc/pdJSX3pv/logoisk.png",
       "promo": "https://drift.by/wp-content/uploads/2023/06/DRIFTLOGOISK23_900_900-768x768.jpg",
       "date": "30 июля 2023",
       "location": "ГСОК Логойск, Логойск",
@@ -24,6 +23,7 @@
         "911 Кондратенко Роман (Беларусь, Минск) \nАвто: Nissan S13 1JZ, 580 л.с.",
         "Антропов Станислав (Россия, Омск) \nАвто: Mazda RX8, 1.5 JZ-GTE VVTI, 400 л.с.",
         "Усанин Никита (Россия, Санкт-Петербург) \nАвто: BMW 3 E30 LS3"],
+      "judgesTask": "https://i.postimg.cc/qMzK1hj6/30-07-23.jpg"
     },
     {
       "locationImg": "https://i.postimg.cc/LX4bqv11/stayki.png",
