@@ -1,6 +1,14 @@
 {
   "News": [
     {
+      "title" : "9-10 Сентября – DRIFTZARYA – IV этап Betera Чемпионата Беларуси по дрифтингу",
+      "date" : "15 августа 2023",
+      "source" : "drift.by",
+      "description" : "Гоночный викенд #DRIFTZARYA пройдет 9-10 сентября на стадионе Заря в Стайках!",
+      "urlImg" : "https://drift.by/wp-content/uploads/2023/08/DRIFTZARYAI23_800_900-768x865.jpg",
+       "urlPost" : "https://drift.by/9-10-sentyabrya-driftzarya-iv-etap-betera-chempionata-belarusi-po-driftingu/"
+    },
+    {
       "title" : "#DriftLogoisk: третий этап Betera Чемпионата Беларуси по дрифтингу в прямом эфире VOKA",
       "date" : "29 июля 2023",
       "source" : "av.by",
