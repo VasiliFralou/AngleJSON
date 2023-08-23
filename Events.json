@@ -1,37 +1,13 @@
 {
   "Events": [
     {
-      "locationImg": "https://i.postimg.cc/pdJSX3pv/logoisk.png",
-      "promo": "https://drift.by/wp-content/uploads/2023/06/DRIFTLOGOISK23_900_900-768x768.jpg",
-      "date": "30 июля 2023",
-      "location": "ГСОК Логойск, Логойск",
-      "name": "3-ий этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftLogoisk23",
-      "latitude": 54.1816601,
-      "longitude": 27.8076025,
-      "eventScheme": "https://www.ticketpro.by/storage/img/uploads/ckeditor/cke_649af6564182b06-27-2023-05-46-46.jpg",
-      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/driftlogoisk-iii-etap-betera-chempionata-belarusi-po-driftingu-30-iyulya-2023/",
-      "listPilots": [
-        "17 Капшай Павел (Беларусь, Минск) \nАвто: BMW E30, 2JZ, 3.0, 450 л.с.",
-        "19 Шубадёров Владислав (Беларусь, Минск) \nАвто: Nissan Silvia S15, 2JZ, 3.0, 700 л.с.",
-        "22 Юхневич Евгений (Беларусь, Гродно) \nАвто: BMW E46 LS2, 6.2, 400 л.с.",
-        "44 Манчукевич Алексей (Беларусь, Минск) \nАвто: Nissan 200SX S14, 2JZ, 3.0, 000 л.с.",
-        "50 Ерёмин Владимир (Беларусь, Минск) \nАвто: BMW E46, 1JZ, 490 л.с.",
-        "86 Милинчук Евгений (Беларусь, Минск) \nАвто: BMW E46, 2.8, 500 л.с.",
-        "88 Клищевский Денис (Беларусь, Пинск) \nАвто: Nissan 200SX S13 2JZ, 3.0, 650 л.с.",
-        "99 Силивончик Виталий (Беларусь, Минск) \nАвто: Nissan 200SX LS, 5.7, 460 л.с.",
-        "911 Кондратенко Роман (Беларусь, Минск) \nАвто: Nissan S13 1JZ, 580 л.с.",
-        "Антропов Станислав (Россия, Омск) \nАвто: Mazda RX8, 1.5 JZ-GTE VVTI, 400 л.с.",
-        "Усанин Никита (Россия, Санкт-Петербург) \nАвто: BMW 3 E30 LS3"],
-      "judgesTask": "https://i.postimg.cc/qMzK1hj6/30-07-23.jpg"
-    },
-    {
       "locationImg": "https://i.postimg.cc/LX4bqv11/stayki.png",
-      "promo": "https://i.postimg.cc/LX4bqv11/stayki.png",
-      "date": "10 сентября 2023",
+      "promo": "https://drift.by/wp-content/uploads/2023/08/DRIFTZARYAI23_800_900-768x865.jpg",
+      "date": "9-10 сентября 2023, 11:00",
       "location": "РСТЦ ДОСААФ \"Стайки\", Прилесье",
       "name": "4-ый этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftStayki23",
+      "title": "#DriftZarya23",
+      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/driftzarya/",
       "latitude": 53.8194204,
       "longitude": 27.7465482
     },
@@ -129,6 +105,31 @@
       "judgesTask": "https://i.postimg.cc/6pF2tz5z/18-06-2023.jpg",
       "results": "https://drift.by/wp-content/uploads/2023/05/2stage_rezults-1024x397.png",
       "grid": "https://i.postimg.cc/rwXQsGmy/18-06-2023-0.jpg"
-    }
+    },
+    {
+      "locationImg": "https://i.postimg.cc/pdJSX3pv/logoisk.png",
+      "promo": "https://drift.by/wp-content/uploads/2023/06/DRIFTLOGOISK23_900_900-768x768.jpg",
+      "date": "30 июля 2023",
+      "location": "ГСОК Логойск, Логойск",
+      "name": "3-ий этап Чемпионата РБ по дрифтингу",
+      "title": "#DriftLogoisk23",
+      "latitude": 54.1816601,
+      "longitude": 27.8076025,
+      "eventScheme": "https://www.ticketpro.by/storage/img/uploads/ckeditor/cke_649af6564182b06-27-2023-05-46-46.jpg",
+      "ticket": "https://www.ticketpro.by/sportivnye-meropriyatiya/driftlogoisk-iii-etap-betera-chempionata-belarusi-po-driftingu-30-iyulya-2023/",
+      "listPilots": [
+        "17 Капшай Павел (Беларусь, Минск) \nАвто: BMW E30, 2JZ, 3.0, 450 л.с.",
+        "19 Шубадёров Владислав (Беларусь, Минск) \nАвто: Nissan Silvia S15, 2JZ, 3.0, 700 л.с.",
+        "22 Юхневич Евгений (Беларусь, Гродно) \nАвто: BMW E46 LS2, 6.2, 400 л.с.",
+        "44 Манчукевич Алексей (Беларусь, Минск) \nАвто: Nissan 200SX S14, 2JZ, 3.0, 000 л.с.",
+        "50 Ерёмин Владимир (Беларусь, Минск) \nАвто: BMW E46, 1JZ, 490 л.с.",
+        "86 Милинчук Евгений (Беларусь, Минск) \nАвто: BMW E46, 2.8, 500 л.с.",
+        "88 Клищевский Денис (Беларусь, Пинск) \nАвто: Nissan 200SX S13 2JZ, 3.0, 650 л.с.",
+        "99 Силивончик Виталий (Беларусь, Минск) \nАвто: Nissan 200SX LS, 5.7, 460 л.с.",
+        "911 Кондратенко Роман (Беларусь, Минск) \nАвто: Nissan S13 1JZ, 580 л.с.",
+        "Антропов Станислав (Россия, Омск) \nАвто: Mazda RX8, 1.5 JZ-GTE VVTI, 400 л.с.",
+        "Усанин Никита (Россия, Санкт-Петербург) \nАвто: BMW 3 E30 LS3"],
+      "judgesTask": "https://i.postimg.cc/qMzK1hj6/30-07-23.jpg"
+    },
   ]
 }
