@@ -1,12 +1,18 @@
 {
   "Results": [
     {
+
+"pointsQual4": ,
+      "pointsRnd4": ,
+      
       "name": "Кондратенко Роман",
       "pointsQual1": 5,
       "pointsRnd1": 100,
       "pointsQual2": 10,
       "pointsRnd2": 100,
-      "pointResult": 215
+      "pointsQual3": 8,
+      "pointsRnd3": 90,
+      "pointResult": 313
     },
     {
       "name": "Миленчук Евгений",
@@ -14,7 +20,11 @@
       "pointsRnd1": 90,
       "pointsQual2": 4,
       "pointsRnd2": 78,
-      "pointResult": 176
+      "pointsQual3": 4,
+      "pointsRnd3": 78,
+      "pointsQual4": 0,
+      "pointsRnd4": 0,
+      "pointResult": 258
     },
     {
       "name": "Шубадёров Владислав",
@@ -22,13 +32,21 @@
       "pointsRnd1": 78,
       "pointsQual2": 8,
       "pointsRnd2": 90,
-      "pointResult": 186
+      "pointsQual3": 6,
+      "pointsRnd3": 65,
+      "pointsQual4": 10,
+      "pointsRnd4": 100,
+      "pointResult": 367
     },
     {
       "name": "Манчукевич Алексей",
       "pointsQual1": 4,
       "pointsRnd1": 65,
-      "pointResult": 69
+      "pointsQual3": 4,
+      "pointsRnd3": 48,
+      "pointsQual4": 6,
+      "pointsRnd4": 78,
+      "pointResult": 205
     },
     {
       "name": "Капшай Павел",
@@ -36,7 +54,11 @@
       "pointsRnd1": 48,
       "pointsQual2": 6,
       "pointsRnd2": 48,
-      "pointResult": 108
+      "pointsQual3": 5,
+      "pointsRnd3": 100,
+      "pointsQual4": 8,
+      "pointsRnd4": 90,
+      "pointResult": 311
     },
     {
       "name": "Лейтис Артём",
@@ -52,19 +74,27 @@
       "pointsRnd1": 32,
       "pointsQual2": 5,
       "pointsRnd2": 48,
-      "pointResult": 93
+      "pointsQual3": 10,
+      "pointsRnd3": 48,
+      "pointResult": 151
     },
     {
       "name": "Силивончик Виталий",
       "pointsQual1": 4,
       "pointsRnd1": 32,
-      "pointResult": 36
+      "pointsQual3": 4,
+      "pointsRnd3": 32,
+      "pointResult": 72
     },
     {
       "name": "Юхневич Евгений",
       "pointsQual1": 3,
       "pointsRnd1": 16,
-      "pointResult": 19
+      "pointsQual3": 4,
+      "pointsRnd3": 32,
+      "pointsQual4": 4,
+      "pointsRnd4": 65,
+      "pointResult": 124
     },
     {
       "name": "Куприянчик Роман",
@@ -72,7 +102,7 @@
       "pointsRnd1": 16,
       "pointsQual2": 3,
       "pointsRnd2": 16,
-      "pointResult": 38
+      "pointResult": 49
     },
     {
       "name": "Максаков Никита",
@@ -98,7 +128,11 @@
       "pointsRnd1": 8,
       "pointsQual2": 4,
       "pointsRnd2": 65,
-      "pointResult": 80
+      "pointsQual3": 3,
+      "pointsRnd3": 16,
+      "pointsQual4": 4,
+      "pointsRnd4": 48,
+      "pointResult": 151
     },
     {
       "name": "Чевычелов Фёдор",
@@ -110,7 +144,39 @@
       "name": "Водейко Сергей",
       "pointsQual2": 3,
       "pointsRnd2": 16,
+      "pointsQual4": 5,
+      "pointsRnd4": 48,
+      "pointResult": 72
+    },
+    {
+      "name": "Пшеницын Александр",
+      "pointsQual3": 3,
+      "pointsRnd3": 16,
       "pointResult": 19
-    }
+    },
+    {
+      "name": "Антропов Станислав",
+      "pointsQual3": 3,
+      "pointsRnd3": 16,
+      "pointResult": 19
+    },
+    {
+      "name": "Усанин Никита",
+      "pointsQual3": 3,
+      "pointsRnd3": 16,
+      "pointResult": 19
+    },
+    {
+      "name": "Куприянчик Роман",
+      "pointsQual3": 3,
+      "pointsRnd3": 8,
+      "pointResult": 11
+    },
+    {
+      "name": "Поздняков Антон",
+      "pointsQual4": 0,
+      "pointsRnd4": 0,
+      "pointResult": 0
+    }    
   ]
 }
