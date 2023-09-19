@@ -1,6 +1,46 @@
 {
   "News": [
     {
+      "title" : "Дрифт-выходные в Минске. Фотоотчёт",
+      "date" : "15 сентября 2023",
+      "source" : "av.by",
+      "description" : "На автодроме в «Стайках» прошёл четвёртый этап Betera Чемпионата Беларуси по дрифтингу. К основному этапу соревнований было допущено всего восемь пилотов.",
+      "urlImg" : "https://avcdn.av.by/wisiwigimage/0002/4166/6874.jpeg",
+       "urlPost" : "https://av.by/news/4_etap_betera_chempionat_po_driftingu_fotootchet"
+    },
+    {
+      "title" : "Смена лидера и квалификация на выбывание: дрифт в классе ПРО",
+      "date" : "12 сентября 2023",
+      "source" : "abw.by",
+      "description" : "Четвертый этап чемпионата Беларуси по дрифту вновь принимали Стайки. Уже знакомая трасса с сохраненной июньской конфигурацией, хорошая погода, но чего-то не хватало… Пилотов!",
+      "urlImg" : "https://static.abw.by/upload/2023/09/11/edcd43cd83b2f1d15414b8483374ea79.webp",
+       "urlPost" : "https://abw.by/news/autosport/2023/09/12/smena-lidera-i-kvalifikaciya-na-vybyvanie-drift-v-klasse-pro"
+    },      
+    {
+      "title" : "#DriftZarya: VOKA покажет в прямом эфире IV этап Betera Чемпионата Беларуси по дрифтингу",
+      "date" : "8 сентября 2023",
+      "source" : "av.by",
+      "description" : "10 сентября в Стайках состоится IV этап Betera Чемпионата Беларуси по дрифтингу. Видеосервис VOKA покажет гонки в прямом эфире для всех желающих.",
+      "urlImg" : "https://avcdn.av.by/wisiwigimage/0002/3832/4865.jpeg",
+       "urlPost" : "https://av.by/news/driftzarya-v-staykakh"
+    },
+    {
+      "title" : "Двойной дрифт в Стайках – уже в эти выходные",
+      "date" : "6 сентября 2023",
+      "source" : "abw.by",
+      "description" : "Нас снова ожидает насыщенный дрифтом уик-энд: в субботу пройдет финал Кубка Беларуси (класс ПРО2), а в воскресенье состоится IV этап чемпионата Беларуси (класс ПРО).",
+      "urlImg" : "https://static.abw.by/upload/2023/09/06/bce92b32f80b0a306ddf2973702d7163.webp",
+       "urlPost" : "https://abw.by/news/autosport/2023/09/06/dvoinoi-drift-v-staikah--uzhe-v-eti-vyhodnye"
+    },
+    {
+      "title" : "Гоночный уик-энд Driftzarya и выставка-ярмарка автомобилей пройдёт в Стайках",
+      "date" : "6 сентября 2023",
+      "source" : "av.by",
+      "description" : "Гоночный уик-энд Driftzarya пройдёт 9—10 сентября на стадионе «Заря» в Стайках. Cостоится финал Кубка Беларуси по дрифтингу в классе Pro2 и IV этап Betera Чемпионата Беларуси по дрифтингу.",
+      "urlImg" : "https://avcdn.av.by/wisiwigimage/0002/3777/0935.jpeg",
+       "urlPost" : "https://av.by/news/driftzarya_2023_anons"
+    },
+    {
       "title" : "9-10 Сентября – DRIFTZARYA – IV этап Betera Чемпионата Беларуси по дрифтингу",
       "date" : "15 августа 2023",
       "source" : "drift.by",
