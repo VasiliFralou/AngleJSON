@@ -102,6 +102,8 @@
       "pointsRnd1": 16,
       "pointsQual2": 3,
       "pointsRnd2": 16,
+      "pointsQual3": 3,
+      "pointsRnd3": 8,
       "pointResult": 49
     },
     {
@@ -165,12 +167,6 @@
       "pointsQual3": 3,
       "pointsRnd3": 16,
       "pointResult": 19
-    },
-    {
-      "name": "Куприянчик Роман",
-      "pointsQual3": 3,
-      "pointsRnd3": 8,
-      "pointResult": 11
     },
     {
       "name": "Поздняков Антон",
