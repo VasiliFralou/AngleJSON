@@ -1,47 +1,7 @@
 {
   "Events": [
     {
-      "locationImg": "https://avcdn.av.by/wisiwigimage/0002/4166/6874.jpeg",
-      "date": "18-19 мая 2024",
-      "location": "РЦОП Раубичи, Раубичи",
-      "name": "1-ый этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftRaubichi24",
-      "latitude": 54.059066,
-      "longitude": 27.7324008
-    },
-    {
-      "locationImg": "https://raw.githubusercontent.com/VasiliFralou/AngleJSON/main/stayki.png",
-      "date": "22-23 июня 2024",
-      "location": "Минск",
-      "name": "Betera drift",
-      "title": "#BeteraDrift24"
-    },
-    {
-      "locationImg": "https://raw.githubusercontent.com/VasiliFralou/AngleJSON/main/logoisk.png",
-      "date": "20-21 июля 2023",
-      "location": "ГСОК Логойск, Логойск",
-      "name": "2-ой этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftLogoisk24",
-      "latitude": 54.1816601,
-      "longitude": 27.8076025
-    },
-    {
-      "locationImg": "https://raw.githubusercontent.com/VasiliFralou/AngleJSON/main/stayki.png",
-      "date": "24-25 августа 2024",
-      "location": "РСТЦ ДОСААФ \"Стайки\", Прилесье",
-      "name": "3-ий этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftStayki24",
-      "latitude": 53.8194204,
-      "longitude": 27.7465482
-    },
-    {
-      "locationImg": "https://raw.githubusercontent.com/VasiliFralou/AngleJSON/main/raubichi.png",
-      "date": "14-15 сентября 2024",
-      "location": "РЦОП Раубичи, Раубичи",
-      "name": "4-ый этап Чемпионата РБ по дрифтингу",
-      "title": "#DriftRaubichi.by",
-      "latitude": 54.059066,
-      "longitude": 27.7324008
+      "locationImg": "https://avcdn.av.by/wisiwigimage/0002/4166/6874.jpeg"
     }
   ]
 }
